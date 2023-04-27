@@ -1,0 +1,1075 @@
+Notes,County,County Code,Cause of death,Cause of death Code,Deaths,Population,Crude Rate
+,"Baldwin County, AL",01003,"Intentional self-harm by hanging, strangulation and suffocation",X70,19,218022,Unreliable
+,"Baldwin County, AL",01003,Intentional self-harm by other and unspecified firearm discharge,X74,14,218022,Unreliable
+,"Calhoun County, AL",01015,Intentional self-harm by other and unspecified firearm discharge,X74,19,114277,Unreliable
+,"Colbert County, AL",01033,Intentional self-harm by other and unspecified firearm discharge,X74,10,54762,Unreliable
+,"Dale County, AL",01045,Intentional self-harm by other and unspecified firearm discharge,X74,10,48956,Unreliable
+,"DeKalb County, AL",01049,Intentional self-harm by other and unspecified firearm discharge,X74,10,71385,Unreliable
+,"Elmore County, AL",01051,Intentional self-harm by other and unspecified firearm discharge,X74,16,81887,Unreliable
+,"Etowah County, AL",01055,Intentional self-harm by other and unspecified firearm discharge,X74,15,102501,Unreliable
+,"Houston County, AL",01069,Intentional self-harm by other and unspecified firearm discharge,X74,14,104722,Unreliable
+,"Jackson County, AL",01071,Intentional self-harm by other and unspecified firearm discharge,X74,13,51736,Unreliable
+,"Jefferson County, AL",01073,"Intentional self-harm by hanging, strangulation and suffocation",X70,14,659300,Unreliable
+,"Jefferson County, AL",01073,Intentional self-harm by handgun discharge,X72,39,659300,5.9
+,"Jefferson County, AL",01073,Intentional self-harm by other and unspecified firearm discharge,X74,11,659300,Unreliable
+,"Lee County, AL",01081,Intentional self-harm by other and unspecified firearm discharge,X74,13,163941,Unreliable
+,"Limestone County, AL",01083,Intentional self-harm by other and unspecified firearm discharge,X74,11,96174,Unreliable
+,"Madison County, AL",01089,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,366519,Unreliable
+,"Madison County, AL",01089,Intentional self-harm by handgun discharge,X72,22,366519,6.0
+,"Madison County, AL",01089,Intentional self-harm by other and unspecified firearm discharge,X74,13,366519,Unreliable
+,"Mobile County, AL",01097,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,413757,Unreliable
+,"Mobile County, AL",01097,Intentional self-harm by other and unspecified firearm discharge,X74,38,413757,9.2
+,"Montgomery County, AL",01101,Intentional self-harm by other and unspecified firearm discharge,X74,13,225763,Unreliable
+,"Morgan County, AL",01103,Intentional self-harm by handgun discharge,X72,12,119089,Unreliable
+,"St. Clair County, AL",01115,Intentional self-harm by other and unspecified firearm discharge,X74,15,88690,Unreliable
+,"Shelby County, AL",01117,Intentional self-harm by other and unspecified firearm discharge,X74,16,215707,Unreliable
+,"Tuscaloosa County, AL",01125,Intentional self-harm by other and unspecified firearm discharge,X74,21,208911,10.1
+,"Anchorage Borough, AK",02020,"Intentional self-harm by hanging, strangulation and suffocation",X70,20,291538,6.9
+,"Anchorage Borough, AK",02020,Intentional self-harm by handgun discharge,X72,14,291538,Unreliable
+,"Anchorage Borough, AK",02020,Intentional self-harm by other and unspecified firearm discharge,X74,12,291538,Unreliable
+,"Fairbanks North Star Borough, AK",02090,Intentional self-harm by handgun discharge,X72,11,98971,Unreliable
+,"Apache County, AZ",04001,"Intentional self-harm by hanging, strangulation and suffocation",X70,17,71818,Unreliable
+,"Cochise County, AZ",04003,Intentional self-harm by other and unspecified firearm discharge,X74,11,126770,Unreliable
+,"Coconino County, AZ",04005,"Intentional self-harm by hanging, strangulation and suffocation",X70,22,142854,15.4
+,"Gila County, AZ",04007,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,53889,Unreliable
+,"Gila County, AZ",04007,Intentional self-harm by other and unspecified firearm discharge,X74,14,53889,Unreliable
+,"Maricopa County, AZ",04013,"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X61,17,4410824,Unreliable
+,"Maricopa County, AZ",04013,"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X62,10,4410824,Unreliable
+,"Maricopa County, AZ",04013,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,63,4410824,1.4
+,"Maricopa County, AZ",04013,Intentional self-poisoning by and exposure to other gases and vapours,X67,19,4410824,Unreliable
+,"Maricopa County, AZ",04013,"Intentional self-harm by hanging, strangulation and suffocation",X70,178,4410824,4.0
+,"Maricopa County, AZ",04013,Intentional self-harm by handgun discharge,X72,25,4410824,0.6
+,"Maricopa County, AZ",04013,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,25,4410824,0.6
+,"Maricopa County, AZ",04013,Intentional self-harm by other and unspecified firearm discharge,X74,356,4410824,8.1
+,"Maricopa County, AZ",04013,Intentional self-harm by sharp object,X78,13,4410824,Unreliable
+,"Maricopa County, AZ",04013,Intentional self-harm by jumping from a high place,X80,10,4410824,Unreliable
+,"Mohave County, AZ",04015,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,209550,Unreliable
+,"Mohave County, AZ",04015,Intentional self-harm by other and unspecified firearm discharge,X74,53,209550,25.3
+,"Navajo County, AZ",04017,"Intentional self-harm by hanging, strangulation and suffocation",X70,26,110445,23.5
+,"Navajo County, AZ",04017,Intentional self-harm by other and unspecified firearm discharge,X74,15,110445,Unreliable
+,"Pima County, AZ",04019,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,16,1039073,Unreliable
+,"Pima County, AZ",04019,"Intentional self-harm by hanging, strangulation and suffocation",X70,47,1039073,4.5
+,"Pima County, AZ",04019,Intentional self-harm by handgun discharge,X72,40,1039073,3.8
+,"Pima County, AZ",04019,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,18,1039073,Unreliable
+,"Pima County, AZ",04019,Intentional self-harm by other and unspecified firearm discharge,X74,66,1039073,6.4
+,"Pinal County, AZ",04021,"Intentional self-harm by hanging, strangulation and suffocation",X70,31,447138,6.9
+,"Pinal County, AZ",04021,Intentional self-harm by other and unspecified firearm discharge,X74,40,447138,8.9
+,"Yavapai County, AZ",04025,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,231993,Unreliable
+,"Yavapai County, AZ",04025,Intentional self-harm by handgun discharge,X72,34,231993,14.7
+,"Yavapai County, AZ",04025,Intentional self-harm by other and unspecified firearm discharge,X74,17,231993,Unreliable
+,"Yuma County, AZ",04027,Intentional self-harm by other and unspecified firearm discharge,X74,19,212128,Unreliable
+,"Benton County, AR",05007,Intentional self-harm by other and unspecified firearm discharge,X74,15,272608,Unreliable
+,"Crawford County, AR",05033,Intentional self-harm by other and unspecified firearm discharge,X74,10,63406,Unreliable
+,"Faulkner County, AR",05045,Intentional self-harm by handgun discharge,X72,12,124806,Unreliable
+,"Garland County, AR",05051,Intentional self-harm by other and unspecified firearm discharge,X74,18,99154,Unreliable
+,"Pulaski County, AR",05119,Intentional self-harm by other and unspecified firearm discharge,X74,42,392680,10.7
+,"Saline County, AR",05125,Intentional self-harm by other and unspecified firearm discharge,X74,13,121421,Unreliable
+,"Sebastian County, AR",05131,Intentional self-harm by other and unspecified firearm discharge,X74,13,127753,Unreliable
+,"Washington County, AR",05143,"Intentional self-harm by hanging, strangulation and suffocation",X70,14,236961,Unreliable
+,"Washington County, AR",05143,Intentional self-harm by other and unspecified firearm discharge,X74,13,236961,Unreliable
+,"Alameda County, CA",06001,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,15,1666753,Unreliable
+,"Alameda County, CA",06001,"Intentional self-harm by hanging, strangulation and suffocation",X70,60,1666753,3.6
+,"Alameda County, CA",06001,Intentional self-harm by handgun discharge,X72,41,1666753,2.5
+,"Butte County, CA",06007,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,231256,Unreliable
+,"Butte County, CA",06007,Intentional self-harm by handgun discharge,X72,21,231256,9.1
+,"Contra Costa County, CA",06013,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,13,1150215,Unreliable
+,"Contra Costa County, CA",06013,"Intentional self-harm by hanging, strangulation and suffocation",X70,44,1150215,3.8
+,"Contra Costa County, CA",06013,Intentional self-harm by other and unspecified firearm discharge,X74,33,1150215,2.9
+,"Fresno County, CA",06019,"Intentional self-harm by hanging, strangulation and suffocation",X70,48,994400,4.8
+,"Fresno County, CA",06019,Intentional self-harm by other and unspecified firearm discharge,X74,31,994400,3.1
+,"Humboldt County, CA",06023,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,136373,Unreliable
+,"Kern County, CA",06029,"Intentional self-harm by hanging, strangulation and suffocation",X70,41,896764,4.6
+,"Kern County, CA",06029,Intentional self-harm by handgun discharge,X72,19,896764,Unreliable
+,"Kern County, CA",06029,Intentional self-harm by other and unspecified firearm discharge,X74,17,896764,Unreliable
+,"Kings County, CA",06031,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,151366,Unreliable
+,"Los Angeles County, CA",06037,"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X61,29,10105518,0.3
+,"Los Angeles County, CA",06037,"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X62,14,10105518,Unreliable
+,"Los Angeles County, CA",06037,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,44,10105518,0.4
+,"Los Angeles County, CA",06037,Intentional self-poisoning by and exposure to other gases and vapours,X67,31,10105518,0.3
+,"Los Angeles County, CA",06037,"Intentional self-harm by hanging, strangulation and suffocation",X70,390,10105518,3.9
+,"Los Angeles County, CA",06037,Intentional self-harm by handgun discharge,X72,113,10105518,1.1
+,"Los Angeles County, CA",06037,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,31,10105518,0.3
+,"Los Angeles County, CA",06037,Intentional self-harm by other and unspecified firearm discharge,X74,156,10105518,1.5
+,"Los Angeles County, CA",06037,Intentional self-harm by sharp object,X78,25,10105518,0.2
+,"Los Angeles County, CA",06037,Intentional self-harm by jumping from a high place,X80,57,10105518,0.6
+,"Los Angeles County, CA",06037,Intentional self-harm by jumping or lying before moving object,X81,23,10105518,0.2
+,"Marin County, CA",06041,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,259666,Unreliable
+,"Monterey County, CA",06053,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,435594,Unreliable
+,"Monterey County, CA",06053,Intentional self-harm by handgun discharge,X72,12,435594,Unreliable
+,"Orange County, CA",06059,"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X61,11,3185968,Unreliable
+,"Orange County, CA",06059,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,35,3185968,1.1
+,"Orange County, CA",06059,"Intentional self-harm by hanging, strangulation and suffocation",X70,149,3185968,4.7
+,"Orange County, CA",06059,Intentional self-harm by handgun discharge,X72,83,3185968,2.6
+,"Orange County, CA",06059,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,11,3185968,Unreliable
+,"Orange County, CA",06059,Intentional self-harm by other and unspecified firearm discharge,X74,11,3185968,Unreliable
+,"Orange County, CA",06059,Intentional self-harm by sharp object,X78,14,3185968,Unreliable
+,"Orange County, CA",06059,Intentional self-harm by jumping from a high place,X80,19,3185968,Unreliable
+,"Orange County, CA",06059,Intentional self-harm by jumping or lying before moving object,X81,13,3185968,Unreliable
+,"Placer County, CA",06061,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,393149,Unreliable
+,"Placer County, CA",06061,Intentional self-harm by other and unspecified firearm discharge,X74,13,393149,Unreliable
+,"Riverside County, CA",06065,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,37,2450758,1.5
+,"Riverside County, CA",06065,"Intentional self-harm by hanging, strangulation and suffocation",X70,110,2450758,4.5
+,"Riverside County, CA",06065,Intentional self-harm by handgun discharge,X72,101,2450758,4.1
+,"Riverside County, CA",06065,Intentional self-harm by jumping or lying before moving object,X81,10,2450758,Unreliable
+,"Sacramento County, CA",06067,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,19,1540975,Unreliable
+,"Sacramento County, CA",06067,"Intentional self-harm by hanging, strangulation and suffocation",X70,59,1540975,3.8
+,"Sacramento County, CA",06067,Intentional self-harm by handgun discharge,X72,42,1540975,2.7
+,"Sacramento County, CA",06067,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,14,1540975,Unreliable
+,"Sacramento County, CA",06067,Intentional self-harm by other and unspecified firearm discharge,X74,28,1540975,1.8
+,"San Bernardino County, CA",06071,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,11,2171603,Unreliable
+,"San Bernardino County, CA",06071,"Intentional self-harm by hanging, strangulation and suffocation",X70,84,2171603,3.9
+,"San Bernardino County, CA",06071,Intentional self-harm by handgun discharge,X72,77,2171603,3.5
+,"San Bernardino County, CA",06071,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,10,2171603,Unreliable
+,"San Bernardino County, CA",06071,Intentional self-harm by other and unspecified firearm discharge,X74,24,2171603,1.1
+,"San Diego County, CA",06073,"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X61,15,3343364,Unreliable
+,"San Diego County, CA",06073,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,29,3343364,0.9
+,"San Diego County, CA",06073,Intentional self-poisoning by and exposure to other gases and vapours,X67,14,3343364,Unreliable
+,"San Diego County, CA",06073,"Intentional self-harm by hanging, strangulation and suffocation",X70,147,3343364,4.4
+,"San Diego County, CA",06073,Intentional self-harm by drowning and submersion,X71,12,3343364,Unreliable
+,"San Diego County, CA",06073,Intentional self-harm by handgun discharge,X72,126,3343364,3.8
+,"San Diego County, CA",06073,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,27,3343364,0.8
+,"San Diego County, CA",06073,Intentional self-harm by other and unspecified firearm discharge,X74,15,3343364,Unreliable
+,"San Diego County, CA",06073,Intentional self-harm by sharp object,X78,14,3343364,Unreliable
+,"San Diego County, CA",06073,Intentional self-harm by jumping from a high place,X80,25,3343364,0.7
+,"San Diego County, CA",06073,Intentional self-harm by jumping or lying before moving object,X81,10,3343364,Unreliable
+,"San Francisco County, CA",06075,"Intentional self-harm by hanging, strangulation and suffocation",X70,29,883305,3.3
+,"San Francisco County, CA",06075,Intentional self-harm by other and unspecified firearm discharge,X74,14,883305,Unreliable
+,"San Francisco County, CA",06075,Intentional self-harm by jumping from a high place,X80,11,883305,Unreliable
+,"San Joaquin County, CA",06077,"Intentional self-harm by hanging, strangulation and suffocation",X70,27,752660,3.6
+,"San Joaquin County, CA",06077,Intentional self-harm by other and unspecified firearm discharge,X74,20,752660,2.7
+,"San Luis Obispo County, CA",06079,"Intentional self-harm by hanging, strangulation and suffocation",X70,17,284010,Unreliable
+,"San Luis Obispo County, CA",06079,Intentional self-harm by handgun discharge,X72,16,284010,Unreliable
+,"San Mateo County, CA",06081,"Intentional self-harm by hanging, strangulation and suffocation",X70,17,769545,Unreliable
+,"San Mateo County, CA",06081,Intentional self-harm by handgun discharge,X72,21,769545,2.7
+,"Santa Barbara County, CA",06083,"Intentional self-harm by hanging, strangulation and suffocation",X70,18,446527,Unreliable
+,"Santa Barbara County, CA",06083,Intentional self-harm by other and unspecified firearm discharge,X74,14,446527,Unreliable
+,"Santa Clara County, CA",06085,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,12,1937570,Unreliable
+,"Santa Clara County, CA",06085,"Intentional self-harm by hanging, strangulation and suffocation",X70,59,1937570,3.0
+,"Santa Clara County, CA",06085,Intentional self-harm by handgun discharge,X72,43,1937570,2.2
+,"Santa Cruz County, CA",06087,"Intentional self-harm by hanging, strangulation and suffocation",X70,19,274255,Unreliable
+,"Santa Cruz County, CA",06087,Intentional self-harm by handgun discharge,X72,12,274255,Unreliable
+,"Shasta County, CA",06089,"Intentional self-harm by hanging, strangulation and suffocation",X70,18,180040,Unreliable
+,"Shasta County, CA",06089,Intentional self-harm by handgun discharge,X72,19,180040,Unreliable
+,"Solano County, CA",06095,"Intentional self-harm by hanging, strangulation and suffocation",X70,22,446610,4.9
+,"Solano County, CA",06095,Intentional self-harm by handgun discharge,X72,17,446610,Unreliable
+,"Sonoma County, CA",06097,"Intentional self-harm by hanging, strangulation and suffocation",X70,34,499942,6.8
+,"Sonoma County, CA",06097,Intentional self-harm by handgun discharge,X72,16,499942,Unreliable
+,"Stanislaus County, CA",06099,"Intentional self-harm by hanging, strangulation and suffocation",X70,25,549815,4.5
+,"Stanislaus County, CA",06099,Intentional self-harm by handgun discharge,X72,20,549815,3.6
+,"Tehama County, CA",06103,Intentional self-harm by other and unspecified firearm discharge,X74,13,63916,Unreliable
+,"Tulare County, CA",06107,"Intentional self-harm by hanging, strangulation and suffocation",X70,20,465861,4.3
+,"Tulare County, CA",06107,Intentional self-harm by other and unspecified firearm discharge,X74,16,465861,Unreliable
+,"Ventura County, CA",06111,"Intentional self-harm by hanging, strangulation and suffocation",X70,27,850967,3.2
+,"Ventura County, CA",06111,Intentional self-harm by handgun discharge,X72,45,850967,5.3
+,"Yolo County, CA",06113,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,220408,Unreliable
+,"Adams County, CO",08001,"Intentional self-harm by hanging, strangulation and suffocation",X70,36,511868,7.0
+,"Adams County, CO",08001,Intentional self-harm by other and unspecified firearm discharge,X74,43,511868,8.4
+,"Arapahoe County, CO",08005,"Intentional self-harm by hanging, strangulation and suffocation",X70,34,651215,5.2
+,"Arapahoe County, CO",08005,Intentional self-harm by other and unspecified firearm discharge,X74,45,651215,6.9
+,"Boulder County, CO",08013,"Intentional self-harm by hanging, strangulation and suffocation",X70,19,326078,Unreliable
+,"Boulder County, CO",08013,Intentional self-harm by handgun discharge,X72,20,326078,6.1
+,"Boulder County, CO",08013,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,11,326078,Unreliable
+,"Denver County, CO",08031,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,12,716492,Unreliable
+,"Denver County, CO",08031,"Intentional self-harm by hanging, strangulation and suffocation",X70,57,716492,8.0
+,"Denver County, CO",08031,Intentional self-harm by other and unspecified firearm discharge,X74,63,716492,8.8
+,"Douglas County, CO",08035,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,342776,Unreliable
+,"Douglas County, CO",08035,Intentional self-harm by handgun discharge,X72,22,342776,6.4
+,"El Paso County, CO",08041,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,12,713856,Unreliable
+,"El Paso County, CO",08041,Intentional self-poisoning by and exposure to other gases and vapours,X67,10,713856,Unreliable
+,"El Paso County, CO",08041,"Intentional self-harm by hanging, strangulation and suffocation",X70,52,713856,7.3
+,"El Paso County, CO",08041,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,11,713856,Unreliable
+,"El Paso County, CO",08041,Intentional self-harm by other and unspecified firearm discharge,X74,76,713856,10.6
+,"Garfield County, CO",08045,Intentional self-harm by other and unspecified firearm discharge,X74,11,59770,Unreliable
+,"Jefferson County, CO",08059,"Intentional self-harm by hanging, strangulation and suffocation",X70,31,580233,5.3
+,"Jefferson County, CO",08059,Intentional self-harm by handgun discharge,X72,49,580233,8.4
+,"Jefferson County, CO",08059,Intentional self-harm by other and unspecified firearm discharge,X74,11,580233,Unreliable
+,"Larimer County, CO",08069,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10,350518,Unreliable
+,"Larimer County, CO",08069,"Intentional self-harm by hanging, strangulation and suffocation",X70,17,350518,Unreliable
+,"Larimer County, CO",08069,Intentional self-harm by handgun discharge,X72,20,350518,5.7
+,"Larimer County, CO",08069,Intentional self-harm by other and unspecified firearm discharge,X74,19,350518,Unreliable
+,"Mesa County, CO",08077,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,153207,Unreliable
+,"Mesa County, CO",08077,Intentional self-harm by other and unspecified firearm discharge,X74,33,153207,21.5
+,"Pueblo County, CO",08101,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,167529,Unreliable
+,"Pueblo County, CO",08101,Intentional self-harm by handgun discharge,X72,19,167529,Unreliable
+,"Weld County, CO",08123,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,314305,Unreliable
+,"Weld County, CO",08123,Intentional self-harm by handgun discharge,X72,25,314305,8.0
+,"Fairfield County, CT",09001,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,11,943823,Unreliable
+,"Fairfield County, CT",09001,"Intentional self-harm by hanging, strangulation and suffocation",X70,27,943823,2.9
+,"Hartford County, CT",09003,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10,892697,Unreliable
+,"Hartford County, CT",09003,"Intentional self-harm by hanging, strangulation and suffocation",X70,46,892697,5.2
+,"Hartford County, CT",09003,Intentional self-harm by other and unspecified firearm discharge,X74,20,892697,2.2
+,"Litchfield County, CT",09005,"Intentional self-harm by hanging, strangulation and suffocation",X70,14,181111,Unreliable
+,"Litchfield County, CT",09005,Intentional self-harm by other and unspecified firearm discharge,X74,12,181111,Unreliable
+,"New Haven County, CT",09009,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,14,857620,Unreliable
+,"New Haven County, CT",09009,"Intentional self-harm by hanging, strangulation and suffocation",X70,37,857620,4.3
+,"New Haven County, CT",09009,Intentional self-harm by other and unspecified firearm discharge,X74,29,857620,3.4
+,"New London County, CT",09011,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,266784,Unreliable
+,"Kent County, DE",10001,Intentional self-harm by other and unspecified firearm discharge,X74,11,178550,Unreliable
+,"New Castle County, DE",10003,"Intentional self-harm by hanging, strangulation and suffocation",X70,26,559335,4.6
+,"New Castle County, DE",10003,Intentional self-harm by other and unspecified firearm discharge,X74,27,559335,4.8
+,"Sussex County, DE",10005,Intentional self-harm by other and unspecified firearm discharge,X74,11,229286,Unreliable
+,"District of Columbia, DC",11001,"Intentional self-harm by hanging, strangulation and suffocation",X70,24,702455,3.4
+,"Alachua County, FL",12001,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,269956,Unreliable
+,"Alachua County, FL",12001,Intentional self-harm by other and unspecified firearm discharge,X74,18,269956,Unreliable
+,"Bay County, FL",12005,Intentional self-harm by other and unspecified firearm discharge,X74,30,185287,16.2
+,"Brevard County, FL",12009,"Intentional self-harm by hanging, strangulation and suffocation",X70,34,596849,5.7
+,"Brevard County, FL",12009,Intentional self-harm by other and unspecified firearm discharge,X74,61,596849,10.2
+,"Broward County, FL",12011,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,18,1951260,Unreliable
+,"Broward County, FL",12011,"Intentional self-harm by hanging, strangulation and suffocation",X70,74,1951260,3.8
+,"Broward County, FL",12011,Intentional self-harm by other and unspecified firearm discharge,X74,108,1951260,5.5
+,"Broward County, FL",12011,Intentional self-harm by jumping from a high place,X80,13,1951260,Unreliable
+,"Charlotte County, FL",12015,Intentional self-harm by other and unspecified firearm discharge,X74,13,184998,Unreliable
+,"Citrus County, FL",12017,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,147929,Unreliable
+,"Citrus County, FL",12017,Intentional self-harm by other and unspecified firearm discharge,X74,27,147929,18.3
+,"Clay County, FL",12019,Intentional self-harm by other and unspecified firearm discharge,X74,14,216072,Unreliable
+,"Collier County, FL",12021,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,378488,Unreliable
+,"Collier County, FL",12021,Intentional self-harm by other and unspecified firearm discharge,X74,24,378488,6.3
+,"Duval County, FL",12031,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,14,950181,Unreliable
+,"Duval County, FL",12031,"Intentional self-harm by hanging, strangulation and suffocation",X70,35,950181,3.7
+,"Duval County, FL",12031,Intentional self-harm by handgun discharge,X72,19,950181,Unreliable
+,"Duval County, FL",12031,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,11,950181,Unreliable
+,"Duval County, FL",12031,Intentional self-harm by other and unspecified firearm discharge,X74,63,950181,6.6
+,"Escambia County, FL",12033,Intentional self-harm by handgun discharge,X72,22,315534,7.0
+,"Flagler County, FL",12035,Intentional self-harm by handgun discharge,X72,14,112067,Unreliable
+,"Hernando County, FL",12053,Intentional self-harm by other and unspecified firearm discharge,X74,18,190865,Unreliable
+,"Highlands County, FL",12055,Intentional self-harm by other and unspecified firearm discharge,X74,12,105424,Unreliable
+,"Hillsborough County, FL",12057,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,17,1436888,Unreliable
+,"Hillsborough County, FL",12057,"Intentional self-harm by hanging, strangulation and suffocation",X70,56,1436888,3.9
+,"Hillsborough County, FL",12057,Intentional self-harm by handgun discharge,X72,61,1436888,4.2
+,"Hillsborough County, FL",12057,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,10,1436888,Unreliable
+,"Hillsborough County, FL",12057,Intentional self-harm by other and unspecified firearm discharge,X74,35,1436888,2.4
+,"Indian River County, FL",12061,Intentional self-harm by other and unspecified firearm discharge,X74,20,157413,12.7
+,"Lake County, FL",12069,"Intentional self-harm by hanging, strangulation and suffocation",X70,18,356495,Unreliable
+,"Lake County, FL",12069,Intentional self-harm by other and unspecified firearm discharge,X74,33,356495,9.3
+,"Lee County, FL",12071,"Intentional self-harm by hanging, strangulation and suffocation",X70,37,754610,4.9
+,"Lee County, FL",12071,Intentional self-harm by handgun discharge,X72,29,754610,3.8
+,"Lee County, FL",12071,Intentional self-harm by other and unspecified firearm discharge,X74,42,754610,5.6
+,"Leon County, FL",12073,Intentional self-harm by handgun discharge,X72,13,292502,Unreliable
+,"Manatee County, FL",12081,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,394855,Unreliable
+,"Manatee County, FL",12081,Intentional self-harm by handgun discharge,X72,39,394855,9.9
+,"Marion County, FL",12083,"Intentional self-harm by hanging, strangulation and suffocation",X70,25,359977,6.9
+,"Marion County, FL",12083,Intentional self-harm by other and unspecified firearm discharge,X74,43,359977,11.9
+,"Martin County, FL",12085,Intentional self-harm by other and unspecified firearm discharge,X74,21,160912,13.1
+,"Miami-Dade County, FL",12086,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,11,2761581,Unreliable
+,"Miami-Dade County, FL",12086,"Intentional self-harm by hanging, strangulation and suffocation",X70,69,2761581,2.5
+,"Miami-Dade County, FL",12086,Intentional self-harm by other and unspecified firearm discharge,X74,131,2761581,4.7
+,"Miami-Dade County, FL",12086,Intentional self-harm by jumping from a high place,X80,28,2761581,1.0
+,"Monroe County, FL",12087,Intentional self-harm by other and unspecified firearm discharge,X74,22,75027,29.3
+,"Okaloosa County, FL",12091,"Intentional self-harm by hanging, strangulation and suffocation",X70,14,207269,Unreliable
+,"Okaloosa County, FL",12091,Intentional self-harm by handgun discharge,X72,17,207269,Unreliable
+,"Orange County, FL",12095,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10,1380645,Unreliable
+,"Orange County, FL",12095,"Intentional self-harm by hanging, strangulation and suffocation",X70,47,1380645,3.4
+,"Orange County, FL",12095,Intentional self-harm by handgun discharge,X72,59,1380645,4.3
+,"Osceola County, FL",12097,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,367990,Unreliable
+,"Osceola County, FL",12097,Intentional self-harm by handgun discharge,X72,13,367990,Unreliable
+,"Palm Beach County, FL",12099,"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X61,12,1485941,Unreliable
+,"Palm Beach County, FL",12099,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,27,1485941,1.8
+,"Palm Beach County, FL",12099,"Intentional self-harm by hanging, strangulation and suffocation",X70,52,1485941,3.5
+,"Palm Beach County, FL",12099,Intentional self-harm by handgun discharge,X72,16,1485941,Unreliable
+,"Palm Beach County, FL",12099,Intentional self-harm by other and unspecified firearm discharge,X74,91,1485941,6.1
+,"Palm Beach County, FL",12099,Intentional self-harm by jumping or lying before moving object,X81,11,1485941,Unreliable
+,"Pasco County, FL",12101,"Intentional self-harm by hanging, strangulation and suffocation",X70,32,539630,5.9
+,"Pasco County, FL",12101,Intentional self-harm by other and unspecified firearm discharge,X74,58,539630,10.7
+,"Pinellas County, FL",12103,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,21,975280,2.2
+,"Pinellas County, FL",12103,"Intentional self-harm by hanging, strangulation and suffocation",X70,52,975280,5.3
+,"Pinellas County, FL",12103,Intentional self-harm by other and unspecified firearm discharge,X74,91,975280,9.3
+,"Pinellas County, FL",12103,Intentional self-harm by jumping from a high place,X80,18,975280,Unreliable
+,"Polk County, FL",12105,"Intentional self-harm by hanging, strangulation and suffocation",X70,26,708009,3.7
+,"Polk County, FL",12105,Intentional self-harm by other and unspecified firearm discharge,X74,49,708009,6.9
+,"Putnam County, FL",12107,Intentional self-harm by handgun discharge,X72,12,74163,Unreliable
+,"St. Johns County, FL",12109,Intentional self-harm by handgun discharge,X72,22,254261,8.7
+,"St. Johns County, FL",12109,Intentional self-harm by other and unspecified firearm discharge,X74,12,254261,Unreliable
+,"St. Lucie County, FL",12111,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,321128,Unreliable
+,"St. Lucie County, FL",12111,Intentional self-harm by other and unspecified firearm discharge,X74,26,321128,8.1
+,"Santa Rosa County, FL",12113,Intentional self-harm by handgun discharge,X72,18,179349,Unreliable
+,"Sarasota County, FL",12115,"Intentional self-harm by hanging, strangulation and suffocation",X70,22,426718,5.2
+,"Sarasota County, FL",12115,Intentional self-harm by handgun discharge,X72,39,426718,9.1
+,"Seminole County, FL",12117,"Intentional self-harm by hanging, strangulation and suffocation",X70,19,467832,Unreliable
+,"Seminole County, FL",12117,Intentional self-harm by other and unspecified firearm discharge,X74,22,467832,4.7
+,"Sumter County, FL",12119,Intentional self-harm by other and unspecified firearm discharge,X74,12,128754,Unreliable
+,"Volusia County, FL",12127,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,11,547538,Unreliable
+,"Volusia County, FL",12127,"Intentional self-harm by hanging, strangulation and suffocation",X70,28,547538,5.1
+,"Volusia County, FL",12127,Intentional self-harm by handgun discharge,X72,12,547538,Unreliable
+,"Volusia County, FL",12127,Intentional self-harm by other and unspecified firearm discharge,X74,55,547538,10.0
+,"Bartow County, GA",13015,Intentional self-harm by other and unspecified firearm discharge,X74,13,106408,Unreliable
+,"Chatham County, GA",13051,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,289195,Unreliable
+,"Chatham County, GA",13051,Intentional self-harm by other and unspecified firearm discharge,X74,24,289195,8.3
+,"Cherokee County, GA",13057,Intentional self-harm by other and unspecified firearm discharge,X74,27,254149,10.6
+,"Clayton County, GA",13063,Intentional self-harm by other and unspecified firearm discharge,X74,12,289615,Unreliable
+,"Cobb County, GA",13067,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10,756865,Unreliable
+,"Cobb County, GA",13067,"Intentional self-harm by hanging, strangulation and suffocation",X70,23,756865,3.0
+,"Cobb County, GA",13067,Intentional self-harm by other and unspecified firearm discharge,X74,42,756865,5.5
+,"Columbia County, GA",13073,Intentional self-harm by other and unspecified firearm discharge,X74,13,154291,Unreliable
+,"Coweta County, GA",13077,Intentional self-harm by other and unspecified firearm discharge,X74,15,145864,Unreliable
+,"DeKalb County, GA",13089,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,756558,Unreliable
+,"DeKalb County, GA",13089,Intentional self-harm by handgun discharge,X72,22,756558,2.9
+,"DeKalb County, GA",13089,Intentional self-harm by other and unspecified firearm discharge,X74,19,756558,Unreliable
+,"Douglas County, GA",13097,Intentional self-harm by other and unspecified firearm discharge,X74,10,145331,Unreliable
+,"Fulton County, GA",13121,"Intentional self-harm by hanging, strangulation and suffocation",X70,35,1050114,3.3
+,"Fulton County, GA",13121,Intentional self-harm by handgun discharge,X72,23,1050114,2.2
+,"Fulton County, GA",13121,Intentional self-harm by other and unspecified firearm discharge,X74,28,1050114,2.7
+,"Gwinnett County, GA",13135,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10,927781,Unreliable
+,"Gwinnett County, GA",13135,"Intentional self-harm by hanging, strangulation and suffocation",X70,23,927781,2.5
+,"Gwinnett County, GA",13135,Intentional self-harm by handgun discharge,X72,54,927781,5.8
+,"Hall County, GA",13139,Intentional self-harm by other and unspecified firearm discharge,X74,17,202148,Unreliable
+,"Henry County, GA",13151,Intentional self-harm by other and unspecified firearm discharge,X74,22,230220,9.6
+,"Houston County, GA",13153,Intentional self-harm by other and unspecified firearm discharge,X74,18,155469,Unreliable
+,"Jackson County, GA",13157,Intentional self-harm by other and unspecified firearm discharge,X74,13,70422,Unreliable
+,"Lowndes County, GA",13185,Intentional self-harm by other and unspecified firearm discharge,X74,11,116321,Unreliable
+,"Muscogee County, GA",13215,Intentional self-harm by other and unspecified firearm discharge,X74,20,194160,10.3
+,"Richmond County, GA",13245,Intentional self-harm by other and unspecified firearm discharge,X74,12,201554,Unreliable
+,"Spalding County, GA",13255,Intentional self-harm by other and unspecified firearm discharge,X74,10,66100,Unreliable
+,"Walton County, GA",13297,Intentional self-harm by other and unspecified firearm discharge,X74,11,93503,Unreliable
+,"Hawaii County, HI",15001,"Intentional self-harm by hanging, strangulation and suffocation",X70,23,200983,11.4
+,"Hawaii County, HI",15001,Intentional self-harm by other and unspecified firearm discharge,X74,11,200983,Unreliable
+,"Honolulu County, HI",15003,"Intentional self-harm by hanging, strangulation and suffocation",X70,50,980080,5.1
+,"Honolulu County, HI",15003,Intentional self-harm by other and unspecified firearm discharge,X74,11,980080,Unreliable
+,"Honolulu County, HI",15003,Intentional self-harm by jumping from a high place,X80,15,980080,Unreliable
+,"Kauai County, HI",15007,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,72133,Unreliable
+,"Maui County, HI",15009,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,167207,Unreliable
+,"Ada County, ID",16001,"Intentional self-harm by hanging, strangulation and suffocation",X70,21,469966,4.5
+,"Ada County, ID",16001,Intentional self-harm by handgun discharge,X72,54,469966,11.5
+,"Ada County, ID",16001,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,11,469966,Unreliable
+,"Bannock County, ID",16005,"Intentional self-harm by hanging, strangulation and suffocation",X70,14,87138,Unreliable
+,"Bannock County, ID",16005,Intentional self-harm by handgun discharge,X72,19,87138,Unreliable
+,"Bonneville County, ID",16019,Intentional self-harm by handgun discharge,X72,11,116854,Unreliable
+,"Canyon County, ID",16027,Intentional self-harm by handgun discharge,X72,19,223499,Unreliable
+,"Kootenai County, ID",16055,Intentional self-harm by handgun discharge,X72,25,161505,15.5
+,"Twin Falls County, ID",16083,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,86081,Unreliable
+,"Champaign County, IL",17019,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,209983,Unreliable
+,"Cook County, IL",17031,"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X61,10,5180493,Unreliable
+,"Cook County, IL",17031,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,29,5180493,0.6
+,"Cook County, IL",17031,Intentional self-poisoning by and exposure to other gases and vapours,X67,11,5180493,Unreliable
+,"Cook County, IL",17031,"Intentional self-harm by hanging, strangulation and suffocation",X70,161,5180493,3.1
+,"Cook County, IL",17031,Intentional self-harm by handgun discharge,X72,16,5180493,Unreliable
+,"Cook County, IL",17031,Intentional self-harm by other and unspecified firearm discharge,X74,144,5180493,2.8
+,"Cook County, IL",17031,Intentional self-harm by jumping from a high place,X80,21,5180493,0.4
+,"Cook County, IL",17031,Intentional self-harm by jumping or lying before moving object,X81,23,5180493,0.4
+,"DuPage County, IL",17043,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,13,928589,Unreliable
+,"DuPage County, IL",17043,"Intentional self-harm by hanging, strangulation and suffocation",X70,41,928589,4.4
+,"DuPage County, IL",17043,Intentional self-harm by other and unspecified firearm discharge,X74,26,928589,2.8
+,"Kane County, IL",17089,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,534216,Unreliable
+,"Kane County, IL",17089,Intentional self-harm by other and unspecified firearm discharge,X74,18,534216,Unreliable
+,"Lake County, IL",17097,"Intentional self-harm by hanging, strangulation and suffocation",X70,27,700832,3.9
+,"Lake County, IL",17097,Intentional self-harm by other and unspecified firearm discharge,X74,15,700832,Unreliable
+,"McHenry County, IL",17111,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,308570,Unreliable
+,"Madison County, IL",17119,"Intentional self-harm by hanging, strangulation and suffocation",X70,22,264461,8.3
+,"Madison County, IL",17119,Intentional self-harm by handgun discharge,X72,12,264461,Unreliable
+,"Peoria County, IL",17143,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,180621,Unreliable
+,"Rock Island County, IL",17161,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,143477,Unreliable
+,"St. Clair County, IL",17163,Intentional self-harm by other and unspecified firearm discharge,X74,21,261059,8.0
+,"Tazewell County, IL",17179,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,132328,Unreliable
+,"Will County, IL",17197,"Intentional self-harm by hanging, strangulation and suffocation",X70,29,692310,4.2
+,"Will County, IL",17197,Intentional self-harm by other and unspecified firearm discharge,X74,22,692310,3.2
+,"Williamson County, IL",17199,Intentional self-harm by other and unspecified firearm discharge,X74,12,67056,Unreliable
+,"Winnebago County, IL",17201,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,284081,Unreliable
+,"Winnebago County, IL",17201,Intentional self-harm by other and unspecified firearm discharge,X74,22,284081,7.7
+,"Allen County, IN",18003,"Intentional self-harm by hanging, strangulation and suffocation",X70,19,375351,Unreliable
+,"Allen County, IN",18003,Intentional self-harm by other and unspecified firearm discharge,X74,22,375351,5.9
+,"Clark County, IN",18019,Intentional self-harm by other and unspecified firearm discharge,X74,14,117360,Unreliable
+,"Delaware County, IN",18035,Intentional self-harm by other and unspecified firearm discharge,X74,11,114772,Unreliable
+,"Elkhart County, IN",18039,Intentional self-harm by other and unspecified firearm discharge,X74,12,205560,Unreliable
+,"Hamilton County, IN",18057,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,330086,Unreliable
+,"Hamilton County, IN",18057,Intentional self-harm by other and unspecified firearm discharge,X74,15,330086,Unreliable
+,"Hendricks County, IN",18063,Intentional self-harm by other and unspecified firearm discharge,X74,18,167009,Unreliable
+,"Johnson County, IN",18081,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,156225,Unreliable
+,"Lake County, IN",18089,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,484411,Unreliable
+,"Lake County, IN",18089,Intentional self-harm by other and unspecified firearm discharge,X74,36,484411,7.4
+,"La Porte County, IN",18091,Intentional self-harm by other and unspecified firearm discharge,X74,11,110007,Unreliable
+,"Madison County, IN",18095,Intentional self-harm by other and unspecified firearm discharge,X74,14,129641,Unreliable
+,"Marion County, IN",18097,"Intentional self-harm by hanging, strangulation and suffocation",X70,41,954670,4.3
+,"Marion County, IN",18097,Intentional self-harm by handgun discharge,X72,73,954670,7.6
+,"Monroe County, IN",18105,Intentional self-harm by other and unspecified firearm discharge,X74,12,146917,Unreliable
+,"St. Joseph County, IN",18141,Intentional self-harm by other and unspecified firearm discharge,X74,15,270771,Unreliable
+,"Tippecanoe County, IN",18157,Intentional self-harm by other and unspecified firearm discharge,X74,11,193048,Unreliable
+,"Vanderburgh County, IN",18163,Intentional self-harm by other and unspecified firearm discharge,X74,23,180974,12.7
+,"Vigo County, IN",18167,Intentional self-harm by other and unspecified firearm discharge,X74,10,107386,Unreliable
+,"Wayne County, IN",18177,Intentional self-harm by other and unspecified firearm discharge,X74,10,65936,Unreliable
+,"Linn County, IA",19113,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,225909,Unreliable
+,"Linn County, IA",19113,Intentional self-harm by other and unspecified firearm discharge,X74,15,225909,Unreliable
+,"Polk County, IA",19153,"Intentional self-harm by hanging, strangulation and suffocation",X70,17,487204,Unreliable
+,"Polk County, IA",19153,Intentional self-harm by handgun discharge,X72,13,487204,Unreliable
+,"Butler County, KS",20015,Intentional self-harm by other and unspecified firearm discharge,X74,10,66765,Unreliable
+,"Johnson County, KS",20091,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,12,597555,Unreliable
+,"Johnson County, KS",20091,"Intentional self-harm by hanging, strangulation and suffocation",X70,30,597555,5.0
+,"Johnson County, KS",20091,Intentional self-harm by other and unspecified firearm discharge,X74,39,597555,6.5
+,"Sedgwick County, KS",20173,"Intentional self-harm by hanging, strangulation and suffocation",X70,24,513607,4.7
+,"Sedgwick County, KS",20173,Intentional self-harm by handgun discharge,X72,20,513607,3.9
+,"Sedgwick County, KS",20173,Intentional self-harm by other and unspecified firearm discharge,X74,35,513607,6.8
+,"Shawnee County, KS",20177,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,177499,Unreliable
+,"Shawnee County, KS",20177,Intentional self-harm by other and unspecified firearm discharge,X74,17,177499,Unreliable
+,"Wyandotte County, KS",20209,"Intentional self-harm by hanging, strangulation and suffocation",X70,14,165324,Unreliable
+,"Wyandotte County, KS",20209,Intentional self-harm by other and unspecified firearm discharge,X74,14,165324,Unreliable
+,"Boone County, KY",21015,Intentional self-harm by other and unspecified firearm discharge,X74,13,131533,Unreliable
+,"Campbell County, KY",21037,Intentional self-harm by other and unspecified firearm discharge,X74,10,93152,Unreliable
+,"Christian County, KY",21047,Intentional self-harm by other and unspecified firearm discharge,X74,14,71671,Unreliable
+,"Jefferson County, KY",21111,"Intentional self-harm by hanging, strangulation and suffocation",X70,31,770517,4.0
+,"Jefferson County, KY",21111,Intentional self-harm by other and unspecified firearm discharge,X74,73,770517,9.5
+,"Kenton County, KY",21117,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,166051,Unreliable
+,"Kenton County, KY",21117,Intentional self-harm by other and unspecified firearm discharge,X74,12,166051,Unreliable
+,"Madison County, KY",21151,Intentional self-harm by other and unspecified firearm discharge,X74,12,92368,Unreliable
+,"Pike County, KY",21195,Intentional self-harm by other and unspecified firearm discharge,X74,11,58402,Unreliable
+,"Warren County, KY",21227,Intentional self-harm by other and unspecified firearm discharge,X74,14,131264,Unreliable
+,"Ascension Parish, LA",22005,Intentional self-harm by handgun discharge,X72,10,124672,Unreliable
+,"Caddo Parish, LA",22017,Intentional self-harm by other and unspecified firearm discharge,X74,27,242922,11.1
+,"Calcasieu Parish, LA",22019,Intentional self-harm by other and unspecified firearm discharge,X74,19,203112,Unreliable
+,"East Baton Rouge Parish, LA",22033,Intentional self-harm by other and unspecified firearm discharge,X74,38,440956,8.6
+,"Jefferson Parish, LA",22051,"Intentional self-harm by hanging, strangulation and suffocation",X70,18,434051,Unreliable
+,"Jefferson Parish, LA",22051,Intentional self-harm by other and unspecified firearm discharge,X74,39,434051,9.0
+,"Lafayette Parish, LA",22055,Intentional self-harm by other and unspecified firearm discharge,X74,26,242782,10.7
+,"Livingston Parish, LA",22063,Intentional self-harm by other and unspecified firearm discharge,X74,16,139567,Unreliable
+,"Orleans Parish, LA",22071,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,391006,Unreliable
+,"Orleans Parish, LA",22071,Intentional self-harm by other and unspecified firearm discharge,X74,24,391006,6.1
+,"Ouachita Parish, LA",22073,Intentional self-harm by other and unspecified firearm discharge,X74,21,154475,13.6
+,"Rapides Parish, LA",22079,Intentional self-harm by other and unspecified firearm discharge,X74,17,130562,Unreliable
+,"St. Landry Parish, LA",22097,Intentional self-harm by other and unspecified firearm discharge,X74,13,82764,Unreliable
+,"St. Tammany Parish, LA",22103,"Intentional self-harm by hanging, strangulation and suffocation",X70,18,258111,Unreliable
+,"St. Tammany Parish, LA",22103,Intentional self-harm by other and unspecified firearm discharge,X74,26,258111,10.1
+,"Tangipahoa Parish, LA",22105,Intentional self-harm by other and unspecified firearm discharge,X74,10,133777,Unreliable
+,"Terrebonne Parish, LA",22109,Intentional self-harm by other and unspecified firearm discharge,X74,10,111021,Unreliable
+,"Cumberland County, ME",23005,Intentional self-harm by handgun discharge,X72,17,293557,Unreliable
+,"Kennebec County, ME",23011,Intentional self-harm by handgun discharge,X72,10,122083,Unreliable
+,"Penobscot County, ME",23019,Intentional self-harm by handgun discharge,X72,15,151096,Unreliable
+,"York County, ME",23031,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,206229,Unreliable
+,"Anne Arundel County, MD",24003,"Intentional self-harm by hanging, strangulation and suffocation",X70,31,576031,5.4
+,"Anne Arundel County, MD",24003,Intentional self-harm by other and unspecified firearm discharge,X74,18,576031,Unreliable
+,"Baltimore County, MD",24005,"Intentional self-harm by hanging, strangulation and suffocation",X70,26,828431,3.1
+,"Baltimore County, MD",24005,Intentional self-harm by other and unspecified firearm discharge,X74,33,828431,4.0
+,"Carroll County, MD",24013,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,168429,Unreliable
+,"Frederick County, MD",24021,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,255648,Unreliable
+,"Harford County, MD",24025,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,253956,Unreliable
+,"Harford County, MD",24025,Intentional self-harm by other and unspecified firearm discharge,X74,18,253956,Unreliable
+,"Montgomery County, MD",24031,"Intentional self-harm by hanging, strangulation and suffocation",X70,39,1052567,3.7
+,"Montgomery County, MD",24031,Intentional self-harm by other and unspecified firearm discharge,X74,25,1052567,2.4
+,"Prince George's County, MD",24033,"Intentional self-harm by hanging, strangulation and suffocation",X70,20,909308,2.2
+,"Prince George's County, MD",24033,Intentional self-harm by other and unspecified firearm discharge,X74,20,909308,2.2
+,"Baltimore city, MD",24510,"Intentional self-harm by hanging, strangulation and suffocation",X70,22,602495,3.7
+,"Baltimore city, MD",24510,Intentional self-harm by other and unspecified firearm discharge,X74,18,602495,Unreliable
+,"Barnstable County, MA",25001,"Intentional self-harm by hanging, strangulation and suffocation",X70,23,213413,10.8
+,"Bristol County, MA",25005,"Intentional self-harm by hanging, strangulation and suffocation",X70,43,564022,7.6
+,"Bristol County, MA",25005,Intentional self-harm by other and unspecified firearm discharge,X74,19,564022,Unreliable
+,"Essex County, MA",25009,"Intentional self-harm by hanging, strangulation and suffocation",X70,38,790638,4.8
+,"Essex County, MA",25009,Intentional self-harm by other and unspecified firearm discharge,X74,12,790638,Unreliable
+,"Hampden County, MA",25013,"Intentional self-harm by hanging, strangulation and suffocation",X70,28,470406,6.0
+,"Hampden County, MA",25013,Intentional self-harm by other and unspecified firearm discharge,X74,15,470406,Unreliable
+,"Middlesex County, MA",25017,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,18,1614714,Unreliable
+,"Middlesex County, MA",25017,Intentional self-poisoning by and exposure to other gases and vapours,X67,11,1614714,Unreliable
+,"Middlesex County, MA",25017,"Intentional self-harm by hanging, strangulation and suffocation",X70,65,1614714,4.0
+,"Middlesex County, MA",25017,Intentional self-harm by other and unspecified firearm discharge,X74,21,1614714,1.3
+,"Norfolk County, MA",25021,"Intentional self-harm by hanging, strangulation and suffocation",X70,43,705388,6.1
+,"Plymouth County, MA",25023,"Intentional self-harm by hanging, strangulation and suffocation",X70,28,518132,5.4
+,"Plymouth County, MA",25023,Intentional self-harm by other and unspecified firearm discharge,X74,10,518132,Unreliable
+,"Suffolk County, MA",25025,"Intentional self-harm by hanging, strangulation and suffocation",X70,35,807252,4.3
+,"Worcester County, MA",25027,"Intentional self-harm by hanging, strangulation and suffocation",X70,40,830839,4.8
+,"Worcester County, MA",25027,Intentional self-harm by other and unspecified firearm discharge,X74,16,830839,Unreliable
+,"Calhoun County, MI",26025,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,134487,Unreliable
+,"Calhoun County, MI",26025,Intentional self-harm by other and unspecified firearm discharge,X74,10,134487,Unreliable
+,"Genesee County, MI",26049,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,406892,Unreliable
+,"Genesee County, MI",26049,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,11,406892,Unreliable
+,"Genesee County, MI",26049,Intentional self-harm by other and unspecified firearm discharge,X74,32,406892,7.9
+,"Ingham County, MI",26065,"Intentional self-harm by hanging, strangulation and suffocation",X70,14,292735,Unreliable
+,"Ingham County, MI",26065,Intentional self-harm by other and unspecified firearm discharge,X74,15,292735,Unreliable
+,"Jackson County, MI",26075,Intentional self-harm by other and unspecified firearm discharge,X74,20,158823,12.6
+,"Kalamazoo County, MI",26077,Intentional self-harm by other and unspecified firearm discharge,X74,14,264870,Unreliable
+,"Kent County, MI",26081,"Intentional self-harm by hanging, strangulation and suffocation",X70,42,653786,6.4
+,"Kent County, MI",26081,Intentional self-harm by other and unspecified firearm discharge,X74,27,653786,4.1
+,"Macomb County, MI",26099,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,12,874759,Unreliable
+,"Macomb County, MI",26099,"Intentional self-harm by hanging, strangulation and suffocation",X70,41,874759,4.7
+,"Macomb County, MI",26099,Intentional self-harm by handgun discharge,X72,47,874759,5.4
+,"Macomb County, MI",26099,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,14,874759,Unreliable
+,"Monroe County, MI",26115,Intentional self-harm by other and unspecified firearm discharge,X74,12,150439,Unreliable
+,"Oakland County, MI",26125,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,18,1259201,Unreliable
+,"Oakland County, MI",26125,"Intentional self-harm by hanging, strangulation and suffocation",X70,53,1259201,4.2
+,"Oakland County, MI",26125,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,10,1259201,Unreliable
+,"Oakland County, MI",26125,Intentional self-harm by other and unspecified firearm discharge,X74,66,1259201,5.2
+,"Ottawa County, MI",26139,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,290494,Unreliable
+,"Ottawa County, MI",26139,Intentional self-harm by other and unspecified firearm discharge,X74,11,290494,Unreliable
+,"Saginaw County, MI",26145,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,190800,Unreliable
+,"St. Clair County, MI",26147,Intentional self-harm by handgun discharge,X72,11,159337,Unreliable
+,"Wayne County, MI",26163,"Intentional self-harm by hanging, strangulation and suffocation",X70,65,1753893,3.7
+,"Wayne County, MI",26163,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,17,1753893,Unreliable
+,"Wayne County, MI",26163,Intentional self-harm by other and unspecified firearm discharge,X74,103,1753893,5.9
+,"Anoka County, MN",27003,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,353813,Unreliable
+,"Anoka County, MN",27003,Intentional self-harm by other and unspecified firearm discharge,X74,13,353813,Unreliable
+,"Dakota County, MN",27037,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,425423,Unreliable
+,"Dakota County, MN",27037,Intentional self-harm by handgun discharge,X72,14,425423,Unreliable
+,"Hennepin County, MN",27053,"Intentional self-harm by hanging, strangulation and suffocation",X70,56,1259428,4.4
+,"Hennepin County, MN",27053,Intentional self-harm by handgun discharge,X72,27,1259428,2.1
+,"Ramsey County, MN",27123,"Intentional self-harm by hanging, strangulation and suffocation",X70,22,550210,4.0
+,"Ramsey County, MN",27123,Intentional self-harm by other and unspecified firearm discharge,X74,25,550210,4.5
+,"St. Louis County, MN",27137,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,199754,Unreliable
+,"St. Louis County, MN",27137,Intentional self-harm by other and unspecified firearm discharge,X74,16,199754,Unreliable
+,"Washington County, MN",27163,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,259201,Unreliable
+,"Alcorn County, MS",28003,Intentional self-harm by other and unspecified firearm discharge,X74,10,36925,Unreliable
+,"DeSoto County, MS",28033,Intentional self-harm by other and unspecified firearm discharge,X74,18,182001,Unreliable
+,"Harrison County, MS",28047,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,206650,Unreliable
+,"Harrison County, MS",28047,Intentional self-harm by handgun discharge,X72,23,206650,11.1
+,"Hinds County, MS",28049,Intentional self-harm by other and unspecified firearm discharge,X74,21,237085,8.9
+,"Jackson County, MS",28059,Intentional self-harm by other and unspecified firearm discharge,X74,19,143277,Unreliable
+,"Rankin County, MS",28121,Intentional self-harm by other and unspecified firearm discharge,X74,23,153902,14.9
+,"Buchanan County, MO",29021,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,88571,Unreliable
+,"Cape Girardeau County, MO",29031,Intentional self-harm by other and unspecified firearm discharge,X74,11,78753,Unreliable
+,"Cass County, MO",29037,Intentional self-harm by other and unspecified firearm discharge,X74,15,104954,Unreliable
+,"Christian County, MO",29043,Intentional self-harm by other and unspecified firearm discharge,X74,16,86983,Unreliable
+,"Clay County, MO",29047,Intentional self-harm by other and unspecified firearm discharge,X74,18,246365,Unreliable
+,"Franklin County, MO",29071,Intentional self-harm by handgun discharge,X72,13,103670,Unreliable
+,"Greene County, MO",29077,"Intentional self-harm by hanging, strangulation and suffocation",X70,23,291923,7.9
+,"Greene County, MO",29077,Intentional self-harm by handgun discharge,X72,22,291923,7.5
+,"Jackson County, MO",29095,"Intentional self-harm by hanging, strangulation and suffocation",X70,33,700307,4.7
+,"Jackson County, MO",29095,Intentional self-harm by handgun discharge,X72,26,700307,3.7
+,"Jackson County, MO",29095,Intentional self-harm by other and unspecified firearm discharge,X74,58,700307,8.3
+,"Jasper County, MO",29097,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,120636,Unreliable
+,"Jasper County, MO",29097,Intentional self-harm by other and unspecified firearm discharge,X74,11,120636,Unreliable
+,"Jefferson County, MO",29099,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,224347,Unreliable
+,"Jefferson County, MO",29099,Intentional self-harm by handgun discharge,X72,26,224347,11.6
+,"Jefferson County, MO",29099,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,11,224347,Unreliable
+,"St. Charles County, MO",29183,"Intentional self-harm by hanging, strangulation and suffocation",X70,19,399182,Unreliable
+,"St. Charles County, MO",29183,Intentional self-harm by handgun discharge,X72,21,399182,5.3
+,"St. Louis County, MO",29189,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10,996945,Unreliable
+,"St. Louis County, MO",29189,"Intentional self-harm by hanging, strangulation and suffocation",X70,37,996945,3.7
+,"St. Louis County, MO",29189,Intentional self-harm by handgun discharge,X72,63,996945,6.3
+,"St. Louis County, MO",29189,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,12,996945,Unreliable
+,"St. Louis city, MO",29510,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,302838,Unreliable
+,"St. Louis city, MO",29510,Intentional self-harm by other and unspecified firearm discharge,X74,21,302838,6.9
+,"Flathead County, MT",30029,Intentional self-harm by other and unspecified firearm discharge,X74,18,102106,Unreliable
+,"Gallatin County, MT",30031,Intentional self-harm by other and unspecified firearm discharge,X74,11,111876,Unreliable
+,"Missoula County, MT",30063,Intentional self-harm by other and unspecified firearm discharge,X74,12,118791,Unreliable
+,"Yellowstone County, MT",30111,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,160137,Unreliable
+,"Yellowstone County, MT",30111,Intentional self-harm by handgun discharge,X72,14,160137,Unreliable
+,"Douglas County, NE",31055,"Intentional self-harm by hanging, strangulation and suffocation",X70,17,566880,Unreliable
+,"Douglas County, NE",31055,Intentional self-harm by other and unspecified firearm discharge,X74,40,566880,7.1
+,"Lancaster County, NE",31109,"Intentional self-harm by hanging, strangulation and suffocation",X70,17,317272,Unreliable
+,"Clark County, NV",32003,"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X61,11,2231647,Unreliable
+,"Clark County, NV",32003,"Intentional self-poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified",X62,10,2231647,Unreliable
+,"Clark County, NV",32003,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,40,2231647,1.8
+,"Clark County, NV",32003,"Intentional self-harm by hanging, strangulation and suffocation",X70,114,2231647,5.1
+,"Clark County, NV",32003,Intentional self-harm by handgun discharge,X72,52,2231647,2.3
+,"Clark County, NV",32003,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,10,2231647,Unreliable
+,"Clark County, NV",32003,Intentional self-harm by other and unspecified firearm discharge,X74,184,2231647,8.2
+,"Clark County, NV",32003,Intentional self-harm by jumping from a high place,X80,16,2231647,Unreliable
+,"Washoe County, NV",32031,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,465735,Unreliable
+,"Washoe County, NV",32031,Intentional self-harm by handgun discharge,X72,38,465735,8.2
+,"Hillsborough County, NH",33011,"Intentional self-harm by hanging, strangulation and suffocation",X70,19,415247,Unreliable
+,"Hillsborough County, NH",33011,Intentional self-harm by handgun discharge,X72,15,415247,Unreliable
+,"Hillsborough County, NH",33011,Intentional self-harm by other and unspecified firearm discharge,X74,12,415247,Unreliable
+,"Merrimack County, NH",33013,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,151132,Unreliable
+,"Rockingham County, NH",33015,"Intentional self-harm by hanging, strangulation and suffocation",X70,24,309176,7.8
+,"Rockingham County, NH",33015,Intentional self-harm by handgun discharge,X72,16,309176,Unreliable
+,"Bergen County, NJ",34003,"Intentional self-harm by hanging, strangulation and suffocation",X70,36,936692,3.8
+,"Bergen County, NJ",34003,Intentional self-harm by other and unspecified firearm discharge,X74,15,936692,Unreliable
+,"Burlington County, NJ",34005,"Intentional self-harm by hanging, strangulation and suffocation",X70,19,445384,Unreliable
+,"Burlington County, NJ",34005,Intentional self-harm by other and unspecified firearm discharge,X74,14,445384,Unreliable
+,"Camden County, NJ",34007,"Intentional self-harm by hanging, strangulation and suffocation",X70,29,507078,5.7
+,"Camden County, NJ",34007,Intentional self-harm by other and unspecified firearm discharge,X74,11,507078,Unreliable
+,"Essex County, NJ",34013,"Intentional self-harm by hanging, strangulation and suffocation",X70,22,799767,2.8
+,"Essex County, NJ",34013,Intentional self-harm by other and unspecified firearm discharge,X74,12,799767,Unreliable
+,"Gloucester County, NJ",34015,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,291408,Unreliable
+,"Hudson County, NJ",34017,"Intentional self-harm by hanging, strangulation and suffocation",X70,30,676061,4.4
+,"Middlesex County, NJ",34023,"Intentional self-harm by hanging, strangulation and suffocation",X70,33,829685,4.0
+,"Middlesex County, NJ",34023,Intentional self-harm by other and unspecified firearm discharge,X74,14,829685,Unreliable
+,"Monmouth County, NJ",34025,"Intentional self-harm by hanging, strangulation and suffocation",X70,29,621354,4.7
+,"Morris County, NJ",34027,"Intentional self-harm by hanging, strangulation and suffocation",X70,20,494228,4.0
+,"Ocean County, NJ",34029,"Intentional self-harm by hanging, strangulation and suffocation",X70,26,601651,4.3
+,"Ocean County, NJ",34029,Intentional self-harm by other and unspecified firearm discharge,X74,13,601651,Unreliable
+,"Passaic County, NJ",34031,"Intentional self-harm by hanging, strangulation and suffocation",X70,19,503310,Unreliable
+,"Somerset County, NJ",34035,"Intentional self-harm by hanging, strangulation and suffocation",X70,14,331164,Unreliable
+,"Union County, NJ",34039,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,558067,Unreliable
+,"Bernalillo County, NM",35001,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,18,678701,Unreliable
+,"Bernalillo County, NM",35001,"Intentional self-harm by hanging, strangulation and suffocation",X70,51,678701,7.5
+,"Bernalillo County, NM",35001,Intentional self-harm by handgun discharge,X72,12,678701,Unreliable
+,"Bernalillo County, NM",35001,Intentional self-harm by other and unspecified firearm discharge,X74,71,678701,10.5
+,"Dona Ana County, NM",35013,Intentional self-harm by other and unspecified firearm discharge,X74,16,217522,Unreliable
+,"McKinley County, NM",35031,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,72290,Unreliable
+,"Otero County, NM",35035,Intentional self-harm by other and unspecified firearm discharge,X74,10,66781,Unreliable
+,"Sandoval County, NM",35043,Intentional self-harm by other and unspecified firearm discharge,X74,11,145179,Unreliable
+,"San Juan County, NM",35045,"Intentional self-harm by hanging, strangulation and suffocation",X70,20,125043,16.0
+,"San Juan County, NM",35045,Intentional self-harm by other and unspecified firearm discharge,X74,15,125043,Unreliable
+,"Santa Fe County, NM",35049,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,150056,Unreliable
+,"Santa Fe County, NM",35049,Intentional self-harm by other and unspecified firearm discharge,X74,14,150056,Unreliable
+,"Albany County, NY",36001,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,307117,Unreliable
+,"Bronx County, NY",36005,"Intentional self-harm by hanging, strangulation and suffocation",X70,29,1432132,2.0
+,"Bronx County, NY",36005,Intentional self-harm by jumping from a high place,X80,18,1432132,Unreliable
+,"Dutchess County, NY",36027,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,293718,Unreliable
+,"Dutchess County, NY",36027,Intentional self-harm by other and unspecified firearm discharge,X74,15,293718,Unreliable
+,"Erie County, NY",36029,"Intentional self-harm by hanging, strangulation and suffocation",X70,42,919719,4.6
+,"Erie County, NY",36029,Intentional self-harm by other and unspecified firearm discharge,X74,14,919719,Unreliable
+,"Kings County, NY",36047,"Intentional self-harm by hanging, strangulation and suffocation",X70,55,2582830,2.1
+,"Kings County, NY",36047,Intentional self-harm by other and unspecified firearm discharge,X74,22,2582830,0.9
+,"Kings County, NY",36047,Intentional self-harm by jumping from a high place,X80,26,2582830,1.0
+,"Kings County, NY",36047,Intentional self-harm by jumping or lying before moving object,X81,11,2582830,Unreliable
+,"Monroe County, NY",36055,"Intentional self-harm by hanging, strangulation and suffocation",X70,32,742474,4.3
+,"Monroe County, NY",36055,Intentional self-harm by other and unspecified firearm discharge,X74,10,742474,Unreliable
+,"Nassau County, NY",36059,"Intentional self-harm by hanging, strangulation and suffocation",X70,40,1358343,2.9
+,"Nassau County, NY",36059,Intentional self-harm by other and unspecified firearm discharge,X74,16,1358343,Unreliable
+,"New York County, NY",36061,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,13,1628701,Unreliable
+,"New York County, NY",36061,"Intentional self-harm by hanging, strangulation and suffocation",X70,44,1628701,2.7
+,"New York County, NY",36061,Intentional self-harm by jumping from a high place,X80,35,1628701,2.1
+,"Niagara County, NY",36063,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,210433,Unreliable
+,"Onondaga County, NY",36067,"Intentional self-harm by hanging, strangulation and suffocation",X70,23,461809,5.0
+,"Ontario County, NY",36069,Intentional self-harm by other and unspecified firearm discharge,X74,10,109864,Unreliable
+,"Orange County, NY",36071,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,381951,Unreliable
+,"Queens County, NY",36081,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,18,2278906,Unreliable
+,"Queens County, NY",36081,"Intentional self-harm by hanging, strangulation and suffocation",X70,59,2278906,2.6
+,"Queens County, NY",36081,Intentional self-harm by drowning and submersion,X71,10,2278906,Unreliable
+,"Queens County, NY",36081,Intentional self-harm by other and unspecified firearm discharge,X74,14,2278906,Unreliable
+,"Queens County, NY",36081,Intentional self-harm by jumping from a high place,X80,24,2278906,1.1
+,"Queens County, NY",36081,Intentional self-harm by jumping or lying before moving object,X81,19,2278906,Unreliable
+,"Richmond County, NY",36085,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,476179,Unreliable
+,"Saratoga County, NY",36091,"Intentional self-harm by hanging, strangulation and suffocation",X70,14,230163,Unreliable
+,"Suffolk County, NY",36103,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,11,1481093,Unreliable
+,"Suffolk County, NY",36103,"Intentional self-harm by hanging, strangulation and suffocation",X70,53,1481093,3.6
+,"Suffolk County, NY",36103,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,19,1481093,Unreliable
+,"Suffolk County, NY",36103,Intentional self-harm by other and unspecified firearm discharge,X74,15,1481093,Unreliable
+,"Westchester County, NY",36119,"Intentional self-harm by hanging, strangulation and suffocation",X70,32,967612,3.3
+,"Buncombe County, NC",37021,Intentional self-harm by other and unspecified firearm discharge,X74,21,259103,8.1
+,"Cabarrus County, NC",37025,Intentional self-harm by other and unspecified firearm discharge,X74,12,211342,Unreliable
+,"Carteret County, NC",37031,Intentional self-harm by other and unspecified firearm discharge,X74,10,69524,Unreliable
+,"Catawba County, NC",37035,Intentional self-harm by other and unspecified firearm discharge,X74,11,158652,Unreliable
+,"Cumberland County, NC",37051,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,332330,Unreliable
+,"Cumberland County, NC",37051,Intentional self-harm by handgun discharge,X72,26,332330,7.8
+,"Forsyth County, NC",37067,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,379099,Unreliable
+,"Forsyth County, NC",37067,Intentional self-harm by handgun discharge,X72,11,379099,Unreliable
+,"Forsyth County, NC",37067,Intentional self-harm by other and unspecified firearm discharge,X74,11,379099,Unreliable
+,"Gaston County, NC",37071,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,222846,Unreliable
+,"Gaston County, NC",37071,Intentional self-harm by other and unspecified firearm discharge,X74,17,222846,Unreliable
+,"Guilford County, NC",37081,"Intentional self-harm by hanging, strangulation and suffocation",X70,22,533670,4.1
+,"Guilford County, NC",37081,Intentional self-harm by other and unspecified firearm discharge,X74,28,533670,5.2
+,"Iredell County, NC",37097,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,178435,Unreliable
+,"Iredell County, NC",37097,Intentional self-harm by other and unspecified firearm discharge,X74,14,178435,Unreliable
+,"Johnston County, NC",37101,Intentional self-harm by handgun discharge,X72,13,202675,Unreliable
+,"Mecklenburg County, NC",37119,"Intentional self-harm by hanging, strangulation and suffocation",X70,37,1093901,3.4
+,"Mecklenburg County, NC",37119,Intentional self-harm by handgun discharge,X72,16,1093901,Unreliable
+,"Mecklenburg County, NC",37119,Intentional self-harm by other and unspecified firearm discharge,X74,29,1093901,2.7
+,"Moore County, NC",37125,Intentional self-harm by other and unspecified firearm discharge,X74,11,98682,Unreliable
+,"Onslow County, NC",37133,Intentional self-harm by other and unspecified firearm discharge,X74,19,197683,Unreliable
+,"Randolph County, NC",37151,Intentional self-harm by other and unspecified firearm discharge,X74,21,143351,14.6
+,"Rowan County, NC",37159,Intentional self-harm by handgun discharge,X72,10,141262,Unreliable
+,"Rutherford County, NC",37161,Intentional self-harm by other and unspecified firearm discharge,X74,11,66826,Unreliable
+,"Wake County, NC",37183,"Intentional self-harm by hanging, strangulation and suffocation",X70,27,1092305,2.5
+,"Wake County, NC",37183,Intentional self-harm by handgun discharge,X72,33,1092305,3.0
+,"Wake County, NC",37183,Intentional self-harm by other and unspecified firearm discharge,X74,13,1092305,Unreliable
+,"Cass County, ND",38017,Intentional self-harm by other and unspecified firearm discharge,X74,12,181516,Unreliable
+,"Ashtabula County, OH",39007,Intentional self-harm by other and unspecified firearm discharge,X74,12,97493,Unreliable
+,"Belmont County, OH",39013,Intentional self-harm by other and unspecified firearm discharge,X74,13,67505,Unreliable
+,"Butler County, OH",39017,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,382378,Unreliable
+,"Butler County, OH",39017,Intentional self-harm by other and unspecified firearm discharge,X74,23,382378,6.0
+,"Clark County, OH",39023,Intentional self-harm by other and unspecified firearm discharge,X74,17,134585,Unreliable
+,"Clermont County, OH",39025,Intentional self-harm by other and unspecified firearm discharge,X74,23,205466,11.2
+,"Columbiana County, OH",39029,Intentional self-harm by other and unspecified firearm discharge,X74,10,102665,Unreliable
+,"Cuyahoga County, OH",39035,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,15,1243857,Unreliable
+,"Cuyahoga County, OH",39035,"Intentional self-harm by hanging, strangulation and suffocation",X70,58,1243857,4.7
+,"Cuyahoga County, OH",39035,Intentional self-harm by other and unspecified firearm discharge,X74,87,1243857,7.0
+,"Franklin County, OH",39049,"Intentional self-harm by hanging, strangulation and suffocation",X70,54,1310300,4.1
+,"Franklin County, OH",39049,Intentional self-harm by handgun discharge,X72,11,1310300,Unreliable
+,"Franklin County, OH",39049,Intentional self-harm by other and unspecified firearm discharge,X74,69,1310300,5.3
+,"Greene County, OH",39057,Intentional self-harm by other and unspecified firearm discharge,X74,15,167995,Unreliable
+,"Hamilton County, OH",39061,"Intentional self-harm by hanging, strangulation and suffocation",X70,33,816684,4.0
+,"Hamilton County, OH",39061,Intentional self-harm by handgun discharge,X72,10,816684,Unreliable
+,"Hamilton County, OH",39061,Intentional self-harm by other and unspecified firearm discharge,X74,42,816684,5.1
+,"Jefferson County, OH",39081,Intentional self-harm by other and unspecified firearm discharge,X74,12,65767,Unreliable
+,"Licking County, OH",39089,Intentional self-harm by other and unspecified firearm discharge,X74,10,175769,Unreliable
+,"Lorain County, OH",39093,"Intentional self-harm by hanging, strangulation and suffocation",X70,19,309461,Unreliable
+,"Lorain County, OH",39093,Intentional self-harm by other and unspecified firearm discharge,X74,23,309461,7.4
+,"Lucas County, OH",39095,"Intentional self-harm by hanging, strangulation and suffocation",X70,19,429899,Unreliable
+,"Lucas County, OH",39095,Intentional self-harm by other and unspecified firearm discharge,X74,27,429899,6.3
+,"Mahoning County, OH",39099,Intentional self-harm by other and unspecified firearm discharge,X74,14,229642,Unreliable
+,"Medina County, OH",39103,Intentional self-harm by other and unspecified firearm discharge,X74,11,179146,Unreliable
+,"Montgomery County, OH",39113,"Intentional self-harm by hanging, strangulation and suffocation",X70,25,532331,4.7
+,"Montgomery County, OH",39113,Intentional self-harm by other and unspecified firearm discharge,X74,41,532331,7.7
+,"Muskingum County, OH",39119,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,86183,Unreliable
+,"Muskingum County, OH",39119,Intentional self-harm by other and unspecified firearm discharge,X74,13,86183,Unreliable
+,"Portage County, OH",39133,Intentional self-harm by other and unspecified firearm discharge,X74,13,162927,Unreliable
+,"Richland County, OH",39139,Intentional self-harm by other and unspecified firearm discharge,X74,15,121099,Unreliable
+,"Stark County, OH",39151,"Intentional self-harm by hanging, strangulation and suffocation",X70,23,371574,6.2
+,"Stark County, OH",39151,Intentional self-harm by handgun discharge,X72,22,371574,5.9
+,"Stark County, OH",39151,Intentional self-harm by other and unspecified firearm discharge,X74,14,371574,Unreliable
+,"Summit County, OH",39153,"Intentional self-harm by hanging, strangulation and suffocation",X70,29,541918,5.4
+,"Summit County, OH",39153,Intentional self-harm by handgun discharge,X72,14,541918,Unreliable
+,"Summit County, OH",39153,Intentional self-harm by other and unspecified firearm discharge,X74,23,541918,4.2
+,"Trumbull County, OH",39155,Intentional self-harm by other and unspecified firearm discharge,X74,17,198627,Unreliable
+,"Warren County, OH",39165,Intentional self-harm by other and unspecified firearm discharge,X74,13,232173,Unreliable
+,"Wayne County, OH",39169,Intentional self-harm by other and unspecified firearm discharge,X74,10,115967,Unreliable
+,"Cleveland County, OK",40027,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,281669,Unreliable
+,"Cleveland County, OK",40027,Intentional self-harm by handgun discharge,X72,18,281669,Unreliable
+,"Oklahoma County, OK",40109,"Intentional self-harm by hanging, strangulation and suffocation",X70,46,792582,5.8
+,"Oklahoma County, OK",40109,Intentional self-harm by handgun discharge,X72,68,792582,8.6
+,"Oklahoma County, OK",40109,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,11,792582,Unreliable
+,"Oklahoma County, OK",40109,Intentional self-harm by other and unspecified firearm discharge,X74,14,792582,Unreliable
+,"Rogers County, OK",40131,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,91984,Unreliable
+,"Tulsa County, OK",40143,"Intentional self-harm by hanging, strangulation and suffocation",X70,35,648360,5.4
+,"Tulsa County, OK",40143,Intentional self-harm by handgun discharge,X72,57,648360,8.8
+,"Wagoner County, OK",40145,Intentional self-harm by handgun discharge,X72,10,80110,Unreliable
+,"Clackamas County, OR",41005,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,416075,Unreliable
+,"Clackamas County, OR",41005,Intentional self-harm by handgun discharge,X72,25,416075,6.0
+,"Coos County, OR",41011,Intentional self-harm by handgun discharge,X72,11,64389,Unreliable
+,"Deschutes County, OR",41017,Intentional self-harm by handgun discharge,X72,20,191996,10.4
+,"Douglas County, OR",41019,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,110283,Unreliable
+,"Douglas County, OR",41019,Intentional self-harm by handgun discharge,X72,11,110283,Unreliable
+,"Jackson County, OR",41029,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,219564,Unreliable
+,"Jackson County, OR",41029,Intentional self-harm by handgun discharge,X72,15,219564,Unreliable
+,"Jackson County, OR",41029,Intentional self-harm by other and unspecified firearm discharge,X74,16,219564,Unreliable
+,"Josephine County, OR",41033,Intentional self-harm by handgun discharge,X72,13,87393,Unreliable
+,"Lane County, OR",41039,"Intentional self-harm by hanging, strangulation and suffocation",X70,35,379611,9.2
+,"Lane County, OR",41039,Intentional self-harm by handgun discharge,X72,32,379611,8.4
+,"Lincoln County, OR",41041,Intentional self-harm by handgun discharge,X72,11,49388,Unreliable
+,"Linn County, OR",41043,Intentional self-harm by handgun discharge,X72,11,127335,Unreliable
+,"Marion County, OR",41047,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,346868,Unreliable
+,"Marion County, OR",41047,Intentional self-harm by handgun discharge,X72,33,346868,9.5
+,"Multnomah County, OR",41051,"Intentional self-harm by hanging, strangulation and suffocation",X70,52,811880,6.4
+,"Multnomah County, OR",41051,Intentional self-harm by handgun discharge,X72,43,811880,5.3
+,"Multnomah County, OR",41051,Intentional self-harm by jumping from a high place,X80,13,811880,Unreliable
+,"Washington County, OR",41067,"Intentional self-harm by hanging, strangulation and suffocation",X70,19,597695,Unreliable
+,"Washington County, OR",41067,Intentional self-harm by handgun discharge,X72,31,597695,5.2
+,"Yamhill County, OR",41071,Intentional self-harm by handgun discharge,X72,13,107002,Unreliable
+,"Adams County, PA",42001,Intentional self-harm by other and unspecified firearm discharge,X74,12,102811,Unreliable
+,"Allegheny County, PA",42003,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,19,1218452,Unreliable
+,"Allegheny County, PA",42003,"Intentional self-harm by hanging, strangulation and suffocation",X70,58,1218452,4.8
+,"Allegheny County, PA",42003,Intentional self-harm by other and unspecified firearm discharge,X74,79,1218452,6.5
+,"Beaver County, PA",42007,Intentional self-harm by other and unspecified firearm discharge,X74,12,164742,Unreliable
+,"Berks County, PA",42011,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,420152,Unreliable
+,"Berks County, PA",42011,Intentional self-harm by handgun discharge,X72,16,420152,Unreliable
+,"Blair County, PA",42013,Intentional self-harm by other and unspecified firearm discharge,X74,10,122492,Unreliable
+,"Bradford County, PA",42015,Intentional self-harm by other and unspecified firearm discharge,X74,10,60833,Unreliable
+,"Bucks County, PA",42017,"Intentional self-harm by hanging, strangulation and suffocation",X70,29,628195,4.6
+,"Bucks County, PA",42017,Intentional self-harm by other and unspecified firearm discharge,X74,36,628195,5.7
+,"Butler County, PA",42019,Intentional self-harm by other and unspecified firearm discharge,X74,11,187888,Unreliable
+,"Chester County, PA",42029,"Intentional self-harm by hanging, strangulation and suffocation",X70,20,522046,3.8
+,"Chester County, PA",42029,Intentional self-harm by other and unspecified firearm discharge,X74,32,522046,6.1
+,"Clearfield County, PA",42033,Intentional self-harm by other and unspecified firearm discharge,X74,10,79388,Unreliable
+,"Cumberland County, PA",42041,Intentional self-harm by handgun discharge,X72,15,251423,Unreliable
+,"Dauphin County, PA",42043,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,277097,Unreliable
+,"Dauphin County, PA",42043,Intentional self-harm by other and unspecified firearm discharge,X74,15,277097,Unreliable
+,"Delaware County, PA",42045,"Intentional self-harm by hanging, strangulation and suffocation",X70,27,564751,4.8
+,"Delaware County, PA",42045,Intentional self-harm by other and unspecified firearm discharge,X74,22,564751,3.9
+,"Erie County, PA",42049,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,272061,Unreliable
+,"Erie County, PA",42049,Intentional self-harm by handgun discharge,X72,17,272061,Unreliable
+,"Fayette County, PA",42051,Intentional self-harm by other and unspecified firearm discharge,X74,16,130441,Unreliable
+,"Franklin County, PA",42055,Intentional self-harm by other and unspecified firearm discharge,X74,10,154835,Unreliable
+,"Indiana County, PA",42063,Intentional self-harm by handgun discharge,X72,10,84501,Unreliable
+,"Lackawanna County, PA",42069,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,210793,Unreliable
+,"Lackawanna County, PA",42069,Intentional self-harm by other and unspecified firearm discharge,X74,24,210793,11.4
+,"Lancaster County, PA",42071,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,543557,Unreliable
+,"Lancaster County, PA",42071,Intentional self-harm by other and unspecified firearm discharge,X74,42,543557,7.7
+,"Lebanon County, PA",42075,Intentional self-harm by other and unspecified firearm discharge,X74,16,141314,Unreliable
+,"Lehigh County, PA",42077,"Intentional self-harm by hanging, strangulation and suffocation",X70,17,368100,Unreliable
+,"Lehigh County, PA",42077,Intentional self-harm by other and unspecified firearm discharge,X74,26,368100,7.1
+,"Luzerne County, PA",42079,"Intentional self-harm by hanging, strangulation and suffocation",X70,18,317646,Unreliable
+,"Luzerne County, PA",42079,Intentional self-harm by other and unspecified firearm discharge,X74,33,317646,10.4
+,"Mifflin County, PA",42087,Intentional self-harm by other and unspecified firearm discharge,X74,10,46222,Unreliable
+,"Monroe County, PA",42089,Intentional self-harm by handgun discharge,X72,15,169507,Unreliable
+,"Montgomery County, PA",42091,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,12,828604,Unreliable
+,"Montgomery County, PA",42091,"Intentional self-harm by hanging, strangulation and suffocation",X70,39,828604,4.7
+,"Montgomery County, PA",42091,Intentional self-harm by other and unspecified firearm discharge,X74,31,828604,3.7
+,"Northampton County, PA",42095,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10,304807,Unreliable
+,"Northampton County, PA",42095,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,304807,Unreliable
+,"Northampton County, PA",42095,Intentional self-harm by other and unspecified firearm discharge,X74,21,304807,6.9
+,"Philadelphia County, PA",42101,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,11,1584138,Unreliable
+,"Philadelphia County, PA",42101,"Intentional self-harm by hanging, strangulation and suffocation",X70,68,1584138,4.3
+,"Philadelphia County, PA",42101,Intentional self-harm by other and unspecified firearm discharge,X74,49,1584138,3.1
+,"Schuylkill County, PA",42107,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,142067,Unreliable
+,"Washington County, PA",42125,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,207346,Unreliable
+,"Washington County, PA",42125,Intentional self-harm by other and unspecified firearm discharge,X74,25,207346,12.1
+,"Westmoreland County, PA",42129,"Intentional self-harm by hanging, strangulation and suffocation",X70,18,350611,Unreliable
+,"Westmoreland County, PA",42129,Intentional self-harm by other and unspecified firearm discharge,X74,33,350611,9.4
+,"York County, PA",42133,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10,448273,Unreliable
+,"York County, PA",42133,"Intentional self-harm by hanging, strangulation and suffocation",X70,22,448273,4.9
+,"York County, PA",42133,Intentional self-harm by other and unspecified firearm discharge,X74,49,448273,10.9
+,"Providence County, RI",44007,"Intentional self-harm by hanging, strangulation and suffocation",X70,26,636084,4.1
+,"Aiken County, SC",45003,Intentional self-harm by other and unspecified firearm discharge,X74,25,169401,14.8
+,"Anderson County, SC",45007,Intentional self-harm by other and unspecified firearm discharge,X74,15,200482,Unreliable
+,"Beaufort County, SC",45013,Intentional self-harm by other and unspecified firearm discharge,X74,16,188715,Unreliable
+,"Berkeley County, SC",45015,Intentional self-harm by other and unspecified firearm discharge,X74,16,221091,Unreliable
+,"Charleston County, SC",45019,"Intentional self-harm by hanging, strangulation and suffocation",X70,14,405905,Unreliable
+,"Charleston County, SC",45019,Intentional self-harm by other and unspecified firearm discharge,X74,34,405905,8.4
+,"Chesterfield County, SC",45025,Intentional self-harm by other and unspecified firearm discharge,X74,10,45754,Unreliable
+,"Dorchester County, SC",45035,Intentional self-harm by other and unspecified firearm discharge,X74,14,160647,Unreliable
+,"Greenville County, SC",45045,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10,514213,Unreliable
+,"Greenville County, SC",45045,"Intentional self-harm by hanging, strangulation and suffocation",X70,17,514213,Unreliable
+,"Greenville County, SC",45045,Intentional self-harm by other and unspecified firearm discharge,X74,49,514213,9.5
+,"Horry County, SC",45051,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,344147,Unreliable
+,"Horry County, SC",45051,Intentional self-harm by other and unspecified firearm discharge,X74,36,344147,10.5
+,"Lancaster County, SC",45057,Intentional self-harm by other and unspecified firearm discharge,X74,10,95380,Unreliable
+,"Laurens County, SC",45059,Intentional self-harm by other and unspecified firearm discharge,X74,13,66994,Unreliable
+,"Lexington County, SC",45063,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,295032,Unreliable
+,"Lexington County, SC",45063,Intentional self-harm by other and unspecified firearm discharge,X74,25,295032,8.5
+,"Pickens County, SC",45077,Intentional self-harm by other and unspecified firearm discharge,X74,12,124937,Unreliable
+,"Richland County, SC",45079,"Intentional self-harm by hanging, strangulation and suffocation",X70,18,414576,Unreliable
+,"Richland County, SC",45079,Intentional self-harm by other and unspecified firearm discharge,X74,22,414576,5.3
+,"Spartanburg County, SC",45083,"Intentional self-harm by hanging, strangulation and suffocation",X70,18,313888,Unreliable
+,"Spartanburg County, SC",45083,Intentional self-harm by other and unspecified firearm discharge,X74,38,313888,12.1
+,"York County, SC",45091,Intentional self-harm by other and unspecified firearm discharge,X74,24,274118,8.8
+,"Minnehaha County, SD",46099,Intentional self-harm by handgun discharge,X72,11,192876,Unreliable
+,"Pennington County, SD",46103,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,111729,Unreliable
+,"Blount County, TN",47009,Intentional self-harm by other and unspecified firearm discharge,X74,18,131349,Unreliable
+,"Bradley County, TN",47011,Intentional self-harm by other and unspecified firearm discharge,X74,13,106727,Unreliable
+,"Cumberland County, TN",47035,Intentional self-harm by other and unspecified firearm discharge,X74,10,59673,Unreliable
+,"Davidson County, TN",47037,"Intentional self-harm by hanging, strangulation and suffocation",X70,26,692587,3.8
+,"Davidson County, TN",47037,Intentional self-harm by other and unspecified firearm discharge,X74,37,692587,5.3
+,"Hamilton County, TN",47065,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,364286,Unreliable
+,"Hamilton County, TN",47065,Intentional self-harm by other and unspecified firearm discharge,X74,22,364286,6.0
+,"Knox County, TN",47093,"Intentional self-harm by hanging, strangulation and suffocation",X70,27,465289,5.8
+,"Knox County, TN",47093,Intentional self-harm by handgun discharge,X72,26,465289,5.6
+,"Knox County, TN",47093,Intentional self-harm by other and unspecified firearm discharge,X74,21,465289,4.5
+,"Maury County, TN",47119,Intentional self-harm by other and unspecified firearm discharge,X74,11,94340,Unreliable
+,"Montgomery County, TN",47125,"Intentional self-harm by hanging, strangulation and suffocation",X70,14,205950,Unreliable
+,"Montgomery County, TN",47125,Intentional self-harm by other and unspecified firearm discharge,X74,21,205950,10.2
+,"Roane County, TN",47145,Intentional self-harm by other and unspecified firearm discharge,X74,11,53140,Unreliable
+,"Rutherford County, TN",47149,Intentional self-harm by other and unspecified firearm discharge,X74,26,324890,8.0
+,"Shelby County, TN",47157,"Intentional self-harm by hanging, strangulation and suffocation",X70,23,935764,2.5
+,"Shelby County, TN",47157,Intentional self-harm by handgun discharge,X72,11,935764,Unreliable
+,"Shelby County, TN",47157,Intentional self-harm by other and unspecified firearm discharge,X74,48,935764,5.1
+,"Sullivan County, TN",47163,Intentional self-harm by other and unspecified firearm discharge,X74,15,157668,Unreliable
+,"Sumner County, TN",47165,Intentional self-harm by other and unspecified firearm discharge,X74,25,187149,13.4
+,"Williamson County, TN",47187,Intentional self-harm by other and unspecified firearm discharge,X74,16,231729,Unreliable
+,"Wilson County, TN",47189,Intentional self-harm by other and unspecified firearm discharge,X74,13,140625,Unreliable
+,"Bell County, TX",48027,"Intentional self-harm by hanging, strangulation and suffocation",X70,14,355642,Unreliable
+,"Bell County, TX",48027,Intentional self-harm by other and unspecified firearm discharge,X74,36,355642,10.1
+,"Bexar County, TX",48029,"Intentional self-harm by hanging, strangulation and suffocation",X70,83,1986049,4.2
+,"Bexar County, TX",48029,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,18,1986049,Unreliable
+,"Bexar County, TX",48029,Intentional self-harm by other and unspecified firearm discharge,X74,131,1986049,6.6
+,"Brazoria County, TX",48039,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,370200,Unreliable
+,"Brazoria County, TX",48039,Intentional self-harm by other and unspecified firearm discharge,X74,20,370200,5.4
+,"Cameron County, TX",48061,"Intentional self-harm by hanging, strangulation and suffocation",X70,18,423908,Unreliable
+,"Cameron County, TX",48061,Intentional self-harm by other and unspecified firearm discharge,X74,12,423908,Unreliable
+,"Collin County, TX",48085,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10,1005146,Unreliable
+,"Collin County, TX",48085,"Intentional self-harm by hanging, strangulation and suffocation",X70,31,1005146,3.1
+,"Collin County, TX",48085,Intentional self-harm by handgun discharge,X72,27,1005146,2.7
+,"Collin County, TX",48085,Intentional self-harm by other and unspecified firearm discharge,X74,26,1005146,2.6
+,"Dallas County, TX",48113,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,19,2637772,Unreliable
+,"Dallas County, TX",48113,"Intentional self-harm by hanging, strangulation and suffocation",X70,84,2637772,3.2
+,"Dallas County, TX",48113,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,15,2637772,Unreliable
+,"Dallas County, TX",48113,Intentional self-harm by other and unspecified firearm discharge,X74,146,2637772,5.5
+,"Denton County, TX",48121,"Intentional self-harm by hanging, strangulation and suffocation",X70,21,859064,2.4
+,"Denton County, TX",48121,Intentional self-harm by other and unspecified firearm discharge,X74,41,859064,4.8
+,"Ector County, TX",48135,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,162124,Unreliable
+,"Ector County, TX",48135,Intentional self-harm by other and unspecified firearm discharge,X74,12,162124,Unreliable
+,"Ellis County, TX",48139,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,179436,Unreliable
+,"Ellis County, TX",48139,Intentional self-harm by other and unspecified firearm discharge,X74,14,179436,Unreliable
+,"El Paso County, TX",48141,"Intentional self-harm by hanging, strangulation and suffocation",X70,31,840758,3.7
+,"El Paso County, TX",48141,Intentional self-harm by other and unspecified firearm discharge,X74,39,840758,4.6
+,"Fort Bend County, TX",48157,"Intentional self-harm by hanging, strangulation and suffocation",X70,27,787858,3.4
+,"Fort Bend County, TX",48157,Intentional self-harm by handgun discharge,X72,30,787858,3.8
+,"Fort Bend County, TX",48157,Intentional self-harm by other and unspecified firearm discharge,X74,19,787858,Unreliable
+,"Galveston County, TX",48167,Intentional self-harm by other and unspecified firearm discharge,X74,32,337890,9.5
+,"Grayson County, TX",48181,Intentional self-harm by other and unspecified firearm discharge,X74,10,133991,Unreliable
+,"Guadalupe County, TX",48187,Intentional self-harm by other and unspecified firearm discharge,X74,10,163694,Unreliable
+,"Harris County, TX",48201,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,32,4698619,0.7
+,"Harris County, TX",48201,"Intentional self-harm by hanging, strangulation and suffocation",X70,125,4698619,2.7
+,"Harris County, TX",48201,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,23,4698619,0.5
+,"Harris County, TX",48201,Intentional self-harm by other and unspecified firearm discharge,X74,241,4698619,5.1
+,"Harris County, TX",48201,Intentional self-harm by jumping from a high place,X80,15,4698619,Unreliable
+,"Hays County, TX",48209,Intentional self-harm by other and unspecified firearm discharge,X74,13,222631,Unreliable
+,"Henderson County, TX",48213,Intentional self-harm by other and unspecified firearm discharge,X74,12,82299,Unreliable
+,"Hidalgo County, TX",48215,"Intentional self-harm by hanging, strangulation and suffocation",X70,21,865939,2.4
+,"Hidalgo County, TX",48215,Intentional self-harm by other and unspecified firearm discharge,X74,15,865939,Unreliable
+,"Hood County, TX",48221,Intentional self-harm by other and unspecified firearm discharge,X74,11,60537,Unreliable
+,"Jefferson County, TX",48245,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,255001,Unreliable
+,"Jefferson County, TX",48245,Intentional self-harm by other and unspecified firearm discharge,X74,19,255001,Unreliable
+,"Johnson County, TX",48251,Intentional self-harm by other and unspecified firearm discharge,X74,18,171361,Unreliable
+,"Kaufman County, TX",48257,Intentional self-harm by other and unspecified firearm discharge,X74,16,128622,Unreliable
+,"Kerr County, TX",48265,Intentional self-harm by other and unspecified firearm discharge,X74,14,52405,Unreliable
+,"Lubbock County, TX",48303,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,307412,Unreliable
+,"Lubbock County, TX",48303,Intentional self-harm by other and unspecified firearm discharge,X74,24,307412,7.8
+,"McLennan County, TX",48309,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,254607,Unreliable
+,"McLennan County, TX",48309,Intentional self-harm by other and unspecified firearm discharge,X74,21,254607,8.2
+,"Midland County, TX",48329,Intentional self-harm by other and unspecified firearm discharge,X74,15,172578,Unreliable
+,"Montgomery County, TX",48339,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10,590925,Unreliable
+,"Montgomery County, TX",48339,"Intentional self-harm by hanging, strangulation and suffocation",X70,20,590925,3.4
+,"Montgomery County, TX",48339,Intentional self-harm by other and unspecified firearm discharge,X74,45,590925,7.6
+,"Nacogdoches County, TX",48347,Intentional self-harm by other and unspecified firearm discharge,X74,11,65711,Unreliable
+,"Nueces County, TX",48355,"Intentional self-harm by hanging, strangulation and suffocation",X70,20,362265,5.5
+,"Nueces County, TX",48355,Intentional self-harm by other and unspecified firearm discharge,X74,31,362265,8.6
+,"Orange County, TX",48361,Intentional self-harm by other and unspecified firearm discharge,X74,10,83572,Unreliable
+,"Parker County, TX",48367,Intentional self-harm by other and unspecified firearm discharge,X74,16,138371,Unreliable
+,"Polk County, TX",48373,Intentional self-harm by other and unspecified firearm discharge,X74,11,50031,Unreliable
+,"Potter County, TX",48375,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,119648,Unreliable
+,"Potter County, TX",48375,Intentional self-harm by other and unspecified firearm discharge,X74,13,119648,Unreliable
+,"Randall County, TX",48381,Intentional self-harm by other and unspecified firearm discharge,X74,19,136271,Unreliable
+,"Rockwall County, TX",48397,Intentional self-harm by other and unspecified firearm discharge,X74,11,100657,Unreliable
+,"Smith County, TX",48423,Intentional self-harm by other and unspecified firearm discharge,X74,29,230221,12.6
+,"Tarrant County, TX",48439,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,15,2084931,Unreliable
+,"Tarrant County, TX",48439,"Intentional self-harm by hanging, strangulation and suffocation",X70,72,2084931,3.5
+,"Tarrant County, TX",48439,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,17,2084931,Unreliable
+,"Tarrant County, TX",48439,Intentional self-harm by other and unspecified firearm discharge,X74,156,2084931,7.5
+,"Tom Green County, TX",48451,Intentional self-harm by other and unspecified firearm discharge,X74,12,118189,Unreliable
+,"Travis County, TX",48453,"Intentional self-harm by hanging, strangulation and suffocation",X70,50,1248743,4.0
+,"Travis County, TX",48453,Intentional self-harm by handgun discharge,X72,25,1248743,2.0
+,"Travis County, TX",48453,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,10,1248743,Unreliable
+,"Travis County, TX",48453,Intentional self-harm by other and unspecified firearm discharge,X74,32,1248743,2.6
+,"Wichita County, TX",48485,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,132064,Unreliable
+,"Wichita County, TX",48485,Intentional self-harm by other and unspecified firearm discharge,X74,10,132064,Unreliable
+,"Williamson County, TX",48491,"Intentional self-harm by hanging, strangulation and suffocation",X70,22,566719,3.9
+,"Williamson County, TX",48491,Intentional self-harm by other and unspecified firearm discharge,X74,35,566719,6.2
+,"Davis County, UT",49011,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,11,351713,Unreliable
+,"Davis County, UT",49011,"Intentional self-harm by hanging, strangulation and suffocation",X70,16,351713,Unreliable
+,"Davis County, UT",49011,Intentional self-harm by handgun discharge,X72,13,351713,Unreliable
+,"Davis County, UT",49011,Intentional self-harm by other and unspecified firearm discharge,X74,15,351713,Unreliable
+,"Salt Lake County, UT",49035,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,17,1152633,Unreliable
+,"Salt Lake County, UT",49035,Intentional self-poisoning by and exposure to other gases and vapours,X67,14,1152633,Unreliable
+,"Salt Lake County, UT",49035,"Intentional self-harm by hanging, strangulation and suffocation",X70,69,1152633,6.0
+,"Salt Lake County, UT",49035,Intentional self-harm by handgun discharge,X72,67,1152633,5.8
+,"Salt Lake County, UT",49035,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,13,1152633,Unreliable
+,"Salt Lake County, UT",49035,Intentional self-harm by other and unspecified firearm discharge,X74,42,1152633,3.6
+,"Utah County, UT",49049,"Intentional self-harm by hanging, strangulation and suffocation",X70,24,622213,3.9
+,"Utah County, UT",49049,Intentional self-harm by handgun discharge,X72,24,622213,3.9
+,"Utah County, UT",49049,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,10,622213,Unreliable
+,"Utah County, UT",49049,Intentional self-harm by other and unspecified firearm discharge,X74,19,622213,Unreliable
+,"Weber County, UT",49057,"Intentional self-harm by hanging, strangulation and suffocation",X70,19,256359,Unreliable
+,"Weber County, UT",49057,Intentional self-harm by handgun discharge,X72,19,256359,Unreliable
+,"Weber County, UT",49057,Intentional self-harm by other and unspecified firearm discharge,X74,14,256359,Unreliable
+,"Chittenden County, VT",50007,Intentional self-harm by handgun discharge,X72,10,164572,Unreliable
+,"Chesterfield County, VA",51041,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,348556,Unreliable
+,"Chesterfield County, VA",51041,Intentional self-harm by handgun discharge,X72,13,348556,Unreliable
+,"Chesterfield County, VA",51041,Intentional self-harm by other and unspecified firearm discharge,X74,11,348556,Unreliable
+,"Fairfax County, VA",51059,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10,1150795,Unreliable
+,"Fairfax County, VA",51059,"Intentional self-harm by hanging, strangulation and suffocation",X70,42,1150795,3.6
+,"Fairfax County, VA",51059,Intentional self-harm by other and unspecified firearm discharge,X74,30,1150795,2.6
+,"Loudoun County, VA",51107,Intentional self-harm by other and unspecified firearm discharge,X74,11,406850,Unreliable
+,"Pittsylvania County, VA",51143,Intentional self-harm by other and unspecified firearm discharge,X74,10,60949,Unreliable
+,"Prince William County, VA",51153,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,468011,Unreliable
+,"Prince William County, VA",51153,Intentional self-harm by other and unspecified firearm discharge,X74,19,468011,Unreliable
+,"Chesapeake city, VA",51550,Intentional self-harm by handgun discharge,X72,11,242634,Unreliable
+,"Newport News city, VA",51700,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,178626,Unreliable
+,"Newport News city, VA",51700,Intentional self-harm by handgun discharge,X72,10,178626,Unreliable
+,"Norfolk city, VA",51710,Intentional self-harm by other and unspecified firearm discharge,X74,10,244076,Unreliable
+,"Roanoke city, VA",51770,Intentional self-harm by other and unspecified firearm discharge,X74,10,99920,Unreliable
+,"Virginia Beach city, VA",51810,"Intentional self-harm by hanging, strangulation and suffocation",X70,15,450189,Unreliable
+,"Virginia Beach city, VA",51810,Intentional self-harm by handgun discharge,X72,25,450189,5.6
+,"Virginia Beach city, VA",51810,Intentional self-harm by other and unspecified firearm discharge,X74,15,450189,Unreliable
+,"Benton County, WA",53005,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,201877,Unreliable
+,"Benton County, WA",53005,Intentional self-harm by other and unspecified firearm discharge,X74,10,201877,Unreliable
+,"Clallam County, WA",53009,Intentional self-harm by other and unspecified firearm discharge,X74,15,76737,Unreliable
+,"Clark County, WA",53011,"Intentional self-harm by hanging, strangulation and suffocation",X70,25,481857,5.2
+,"Clark County, WA",53011,Intentional self-harm by handgun discharge,X72,29,481857,6.0
+,"King County, WA",53033,"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified",X61,12,2233163,Unreliable
+,"King County, WA",53033,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,26,2233163,1.2
+,"King County, WA",53033,Intentional self-poisoning by and exposure to other gases and vapours,X67,17,2233163,Unreliable
+,"King County, WA",53033,"Intentional self-harm by hanging, strangulation and suffocation",X70,80,2233163,3.6
+,"King County, WA",53033,Intentional self-harm by handgun discharge,X72,84,2233163,3.8
+,"King County, WA",53033,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,23,2233163,1.0
+,"King County, WA",53033,Intentional self-harm by jumping from a high place,X80,19,2233163,Unreliable
+,"King County, WA",53033,Intentional self-harm by jumping or lying before moving object,X81,10,2233163,Unreliable
+,"Kitsap County, WA",53035,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,269805,Unreliable
+,"Kitsap County, WA",53035,Intentional self-harm by handgun discharge,X72,17,269805,Unreliable
+,"Lewis County, WA",53041,Intentional self-harm by other and unspecified firearm discharge,X74,10,79604,Unreliable
+,"Pierce County, WA",53053,"Intentional self-harm by hanging, strangulation and suffocation",X70,37,891299,4.2
+,"Pierce County, WA",53053,Intentional self-harm by handgun discharge,X72,64,891299,7.2
+,"Pierce County, WA",53053,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,13,891299,Unreliable
+,"Skagit County, WA",53057,Intentional self-harm by handgun discharge,X72,12,128206,Unreliable
+,"Snohomish County, WA",53061,"Intentional self-poisoning by and exposure to other and unspecified drugs, medicaments and biological substances",X64,10,814901,Unreliable
+,"Snohomish County, WA",53061,"Intentional self-harm by hanging, strangulation and suffocation",X70,36,814901,4.4
+,"Snohomish County, WA",53061,Intentional self-harm by handgun discharge,X72,37,814901,4.5
+,"Snohomish County, WA",53061,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,12,814901,Unreliable
+,"Spokane County, WA",53063,"Intentional self-harm by hanging, strangulation and suffocation",X70,30,514631,5.8
+,"Spokane County, WA",53063,Intentional self-harm by handgun discharge,X72,29,514631,5.6
+,"Spokane County, WA",53063,Intentional self-harm by other and unspecified firearm discharge,X74,16,514631,Unreliable
+,"Thurston County, WA",53067,Intentional self-harm by handgun discharge,X72,18,286419,Unreliable
+,"Whatcom County, WA",53073,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,225685,Unreliable
+,"Whatcom County, WA",53073,Intentional self-harm by handgun discharge,X72,24,225685,10.6
+,"Yakima County, WA",53077,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,251446,Unreliable
+,"Yakima County, WA",53077,Intentional self-harm by other and unspecified firearm discharge,X74,18,251446,Unreliable
+,"Berkeley County, WV",54003,Intentional self-harm by other and unspecified firearm discharge,X74,12,117123,Unreliable
+,"Kanawha County, WV",54039,Intentional self-harm by handgun discharge,X72,14,180454,Unreliable
+,"Kanawha County, WV",54039,Intentional self-harm by other and unspecified firearm discharge,X74,18,180454,Unreliable
+,"Brown County, WI",55009,"Intentional self-harm by hanging, strangulation and suffocation",X70,12,263378,Unreliable
+,"Dane County, WI",55025,"Intentional self-harm by hanging, strangulation and suffocation",X70,21,542364,3.9
+,"Dane County, WI",55025,Intentional self-harm by handgun discharge,X72,24,542364,4.4
+,"Dane County, WI",55025,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,12,542364,Unreliable
+,"La Crosse County, WI",55063,"Intentional self-harm by hanging, strangulation and suffocation",X70,11,118230,Unreliable
+,"Marathon County, WI",55073,Intentional self-harm by handgun discharge,X72,10,135428,Unreliable
+,"Milwaukee County, WI",55079,"Intentional self-harm by hanging, strangulation and suffocation",X70,40,948201,4.2
+,"Milwaukee County, WI",55079,Intentional self-harm by handgun discharge,X72,46,948201,4.9
+,"Outagamie County, WI",55087,Intentional self-harm by handgun discharge,X72,14,187365,Unreliable
+,"Racine County, WI",55101,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,196584,Unreliable
+,"Rock County, WI",55105,"Intentional self-harm by hanging, strangulation and suffocation",X70,13,163129,Unreliable
+,"Washington County, WI",55131,Intentional self-harm by handgun discharge,X72,11,135693,Unreliable
+,"Waukesha County, WI",55133,"Intentional self-harm by hanging, strangulation and suffocation",X70,18,403072,Unreliable
+,"Waukesha County, WI",55133,Intentional self-harm by handgun discharge,X72,17,403072,Unreliable
+,"Winnebago County, WI",55139,"Intentional self-harm by hanging, strangulation and suffocation",X70,10,171020,Unreliable
+,"Winnebago County, WI",55139,Intentional self-harm by handgun discharge,X72,12,171020,Unreliable
+,"Laramie County, WY",56021,Intentional self-harm by handgun discharge,X72,17,98976,Unreliable
+,"Natrona County, WY",56025,Intentional self-harm by other and unspecified firearm discharge,X74,19,79115,Unreliable
+---,,,,,,,
+"Dataset: Underlying Cause of Death, 1999-2020",,,,,,,
+Query Parameters:,,,,,,,
+ICD-10 Codes: F20.4 (Post-schizophrenic depression); F32.3 (Severe depressive episode with psychotic symptoms); F60.3,,,,,,,
+(Emotionally unstable personality disorder); U03.0 (Terrorism involving explosions and fragments); U03.9 (Terrorism by other and,,,,,,,
+unspecified means); X60-X84 (Intentional self-harm),,,,,,,
+Year/Month: 2018,,,,,,,
+Group By: County; Cause of death,,,,,,,
+Show Totals: Disabled,,,,,,,
+Show Zero Values: Disabled,,,,,,,
+Show Suppressed: False,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),,,,,,,
+---,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information.,,,,,,,
+---,,,,,,,
+"Query Date: Apr 3, 2023 6:42:25 PM",,,,,,,
+---,,,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics",,,,,,,
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,",,,,,,,
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",,,,,,,
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Apr 3, 2023 6:42:25 PM",,,,,,,
+---,,,,,,,
+Messages:,,,,,,,
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will",,,,,,,
+not be available.,,,,,,,
+---,,,,,,,
+Footnotes:,,,,,,,
+1. Data are not available for this area for all of the requested years. See Caveats below for more information.,,,,,,,
+---,,,,,,,
+Caveats:,,,,,,,
+"1. Data for Prince of Wales-Outer Ketchikan Census Area, AK (FIPS code 02201), Skagway-Hoonah-Angoon Census Area, AK (FIPS code",,,,,,,
+"02232) and Wrangell-Petersburg Census Area, AK (FIPS code 02280) are only available for 2013 and earlier; for computational",,,,,,,
+"purposes, counts and population estimates for 2014 and later are set to zero. Thus, counts and rates shown in multi-year",,,,,,,
+"requests for this entity do not include any data for years after 2013, only data for 2013 and earlier. More information:",,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Alaska2014.,,,,,,,
+"2. Data for Bedford city, Va. (FIPS code 51515) are only available for 2013 and earlier; for computational purposes, counts and",,,,,,,
+"population estimates for 2014 and later are set to zero. Thus, counts and rates shown in multi-year requests for this entity do",,,,,,,
+"not include any data for years after 2014, only data for 2013 and earlier. More information:",,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Bedford.,,,,,,,
+"3. Death rates for Clifton Forge city, Virginia (FIPS code 51560) are available only for 1999-2000. For 2001 and beyond, death",,,,,,,
+"counts and population estimates for Clifton Forge city have been combined with those for Alleghany county, Virginia (FIPS code",,,,,,,
+"51005). Death counts and population estimates for this entity from multi-year requests, only reflect data from 1999 and 2000;",,,,,,,
+for 2001 and beyond they have been set to zero. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Clifton Forge.,,,,,,,
+"4. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510).",,,,,,,
+5. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code,,,,,,,
+24005).,,,,,,,
+6. Deaths and population estimates are reported separately for St. Louis City (FIPS code 29510) and county (FIPS code 29189).,,,,,,,
+7. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable.,,,,,,,
+"8. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020",,,,,,,
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the",,,,,,,
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for",,,,,,,
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS",,,,,,,
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the",,,,,,,
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race",,,,,,,
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The",,,,,,,
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal",,,,,,,
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident",,,,,,,
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are",,,,,,,
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,",,,,,,,
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012",,,,,,,
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July",,,,,,,
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010",,,,,,,
+are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident,,,,,,,
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population",,,,,,,
+figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1,,,,,,,
+estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population,,,,,,,
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which",,,,,,,
+were available at the time of release.,,,,,,,
+9. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the,,,,,,,
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group.,,,,,,,
+"10. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99",,,,,,,
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences",,,,,,,
+in information available to individual states and probable errors. Caution should be used in interpreting these data. More,,,,,,,
+information can be found at: https://www.cdc.gov/nchs/maternal-mortality/.,,,,,,,
+"11. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March",,,,,,,
+"4, 2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,",,,,,,,
+Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the,,,,,,,
+2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and,,,,,,,
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,",,,,,,,
+2020.,,,,,,,
+12. Changes to cause of death classification affect reporting trends. More information:,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes.,,,,,,,
